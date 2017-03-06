@@ -15,3 +15,10 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Syntax analysis
 * Other topics in NLP
 * R Example
+
+## Topic 4: Document representation
+* Bag of words
+* Word weighting
+* N-grams
+* Distributed representations
+* R Example
