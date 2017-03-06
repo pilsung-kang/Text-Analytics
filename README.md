@@ -22,3 +22,9 @@ Unstructured Data Analysis (Graduate) @Korea University
 * N-grams
 * Distributed representations
 * R Example
+
+## Topic 5: Document summarization
+* Word could
+* Association rules
+* Network representation
+* R Example
