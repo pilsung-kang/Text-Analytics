@@ -3,8 +3,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
 * Term project member assignment
-  * Team 1:
-  * 
+ * Team 1:
   
 ## Schedule
 ## Topic 1: Introduction to Text Mining
