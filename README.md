@@ -1,6 +1,12 @@
 # text-mining
 Unstructured Data Analysis (Graduate) @Korea University
 
+## Notice
+* Term project member assignment
+  * Team 1:
+  * 
+  
+## Schedule
 ## Topic 1: Introduction to Text Mining
 * The usefullness of large amount of text data and the challenges
 * Overview of text mining methods
