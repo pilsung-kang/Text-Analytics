@@ -3,9 +3,9 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
 * Term project member assignment
- * Team 1: 이민정, 조윤상, 채선율, 감수란
+ * Team 1: 이민정, 조윤상, 감수란
  * Team 2: 김영호, 박아람, 최재영, 김경숙
- * Team 3: 김수영, 최영진, 권상현, 송은영
+ * Team 3: 김수영, 최영진, 권상현, 송은영, 임희찬
  * Team 4: 박재선, 모경현, 장명준, 이윤정
  * Team 5: 김창엽, 이기창, 서승완, 정재윤
  * Team 6: 김지호, 이규민, 최준, 최진우
@@ -38,4 +38,13 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Word could
 * Association rules
 * Network representation
+* R Example
+
+## Topic 6: Document similarity & Clustering
+* Document similarity metrics
+* Clustering overview
+* K-Means clustering
+* Hierarchical clustering
+* Spectral clustering
+* Self-organizing map
 * R Example
