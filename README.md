@@ -2,6 +2,9 @@
 Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
+* Term project proposal
+  * Time: 2017-03-27 (Mon) 18:30 ~ 21:30
+  * Place: College of Engineering Building 1 464
 * Term project member assignment
    * Team 1: 이민정, 조윤상, 감수란
    * Team 2: 김영호, 박아람, 최재영, 김경숙
@@ -40,11 +43,25 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Network representation
 * R Example
 
-## Topic 6: Document similarity & Clustering
+## Topic 6: Dimensionality reduction
+* Dimensionality Reduction
+* Supervised Feature Selection
+* Unsupervised Feature Extraction: Latent Semantic Analysis (LSA) and t-SNE
+* R Example
+
+## Topic 7: Document similarity & clustering
 * Document similarity metrics
 * Clustering overview
 * K-Means clustering
 * Hierarchical clustering
 * Spectral clustering
 * Self-organizing map
+* R Example
+
+## Topic 8: Document classification
+* Document classification overview
+* Naive Bayesian classifier
+* k-Nearest Neighbor classifier
+* Classification tree
+* Support vector machine
 * R Example
