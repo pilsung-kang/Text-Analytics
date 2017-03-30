@@ -3,8 +3,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
 * Classroom change (from 2017-04-05)
-
-  * Before: 공학관 564
+  * Before: 공학관 564
   * After: 신공학관 218
 * Term project proposal
   * Time: 2017-03-27 (Mon) 18:30 ~ 21:30
