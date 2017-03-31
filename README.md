@@ -17,7 +17,8 @@ Unstructured Data Analysis (Graduate) @Korea University
    * Team 4: 박재선, 모경현, 장명준, 이윤정
    * Team 5: 김창엽, 이기창, 서승완, 정재윤
    * Team 6: 김지호, 이규민, 최준, 최진우
-   * Team 7: 정지혜, 김선웅, 김선우, 전진오
+   * Team 7: 정지혜, 김선웅
+   * Team 8: 김선우, 전진오
   
 ## Schedule
 ## Topic 1: Introduction to Text Mining
