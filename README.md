@@ -2,10 +2,14 @@
 Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
+* Classroom change (from 2017-04-05)
+  * Before: 공학관 564
+  * After: 신공학관 218
 * Term project proposal
   * Time: 2017-03-27 (Mon) 18:30 ~ 21:30
   * Place: College of Engineering Building 1 464
   * Feedback: https://goo.gl/forms/zc4M6TewtwXDc63Q2
+  * Feedback result: https://www.dropbox.com/s/al0eeq6rydc1l74/Feedback%20on%20Project%20Proposals.xlsx?dl=0
 * Term project member assignment
    * Team 1: 이민정, 조윤상, 감수란
    * Team 2: 김영호, 박아람, 최재영, 김경숙
@@ -13,7 +17,8 @@ Unstructured Data Analysis (Graduate) @Korea University
    * Team 4: 박재선, 모경현, 장명준, 이윤정
    * Team 5: 김창엽, 이기창, 서승완, 정재윤
    * Team 6: 김지호, 이규민, 최준, 최진우
-   * Team 7: 정지혜, 김선웅, 김선우, 전진오
+   * Team 7: 정지혜, 김선웅
+   * Team 8: 김선우, 전진오
   
 ## Schedule
 ## Topic 1: Introduction to Text Mining
