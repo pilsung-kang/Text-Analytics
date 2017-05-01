@@ -71,3 +71,18 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Classification tree
 * Support vector machine
 * R Example
+
+## Topic 9: Topic Modeling
+* Topic modeling overview
+* Probabilistic Latent Semantic Analysis: pLSA
+* LDA: Document Generation Process
+* LDA Inference: Gibbs Sampling
+* LDA Evaluation
+* R Example
+
+## Topic 10: Sentiment Analysis
+* Overview
+* Architecture
+* Lexicon-based approach
+* Machine learning-based approach
+* Web applications
