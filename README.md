@@ -2,6 +2,13 @@
 Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
+* Research paper submission due
+  * 2017-06-26 (Mon) 24:00
+* Term project final presentation
+  * Time: 2017-06-21 (Wed) 14:00 ~ 17:00
+* Final Exam
+  * Time: 2017-06-14 (Wed) 14:00 ~ 17:00
+  * Place: To be announced
 * Term project interim presentation
   * Time: 2017-05-10 (Wed) 14:00 ~ 17:00
   * Feedback: https://goo.gl/forms/a428xt2xw5RE5rXf2
