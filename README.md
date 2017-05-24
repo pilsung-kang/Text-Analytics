@@ -5,6 +5,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Term project interim presentation
   * Time: 2017-05-10 (Wed) 14:00 ~ 17:00
   * Feedback: https://goo.gl/forms/a428xt2xw5RE5rXf2
+  * Feedback result: https://www.dropbox.com/s/8yf88wd7u64ys8v/Feedback%20on%20Project%20Interim%20Presentation.xlsx?dl=0
 * Classroom change (from 2017-04-05)
   * Before: 공학관 564
   * After: 신공학관 218
