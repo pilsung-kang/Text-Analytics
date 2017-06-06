@@ -2,6 +2,17 @@
 Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
+* Research paper submission due
+  * 2017-06-26 (Mon) 24:00
+* Term project final presentation
+  * Time: 2017-06-21 (Wed) 14:00 ~ 17:00
+* Final Exam
+  * Time: 2017-06-14 (Wed) 14:00 ~ 17:00
+  * Place: To be announced
+* Term project interim presentation
+  * Time: 2017-05-10 (Wed) 14:00 ~ 17:00
+  * Feedback: https://goo.gl/forms/a428xt2xw5RE5rXf2
+  * Feedback result: https://www.dropbox.com/s/8yf88wd7u64ys8v/Feedback%20on%20Project%20Interim%20Presentation.xlsx?dl=0
 * Classroom change (from 2017-04-05)
   * Before: 공학관 564
   * After: 신공학관 218
@@ -71,3 +82,18 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Classification tree
 * Support vector machine
 * R Example
+
+## Topic 9: Topic Modeling
+* Topic modeling overview
+* Probabilistic Latent Semantic Analysis: pLSA
+* LDA: Document Generation Process
+* LDA Inference: Gibbs Sampling
+* LDA Evaluation
+* R Example
+
+## Topic 10: Sentiment Analysis
+* Overview
+* Architecture
+* Lexicon-based approach
+* Machine learning-based approach
+* Web applications
