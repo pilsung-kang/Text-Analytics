@@ -6,9 +6,10 @@ Unstructured Data Analysis (Graduate) @Korea University
   * 2017-06-26 (Mon) 24:00
 * Term project final presentation
   * Time: 2017-06-21 (Wed) 14:00 ~ 17:00
+  * Feedback: https://goo.gl/forms/2Ga8uhqo1ztFwXHM2
 * Final Exam
   * Time: 2017-06-14 (Wed) 14:00 ~ 17:00
-  * Place: To be announced
+  * Place: 신공학관 218
 * Term project interim presentation
   * Time: 2017-05-10 (Wed) 14:00 ~ 17:00
   * Feedback: https://goo.gl/forms/a428xt2xw5RE5rXf2
