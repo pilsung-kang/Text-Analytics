@@ -4,6 +4,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 ## Notice
 * Research paper submission due
   * 2017-06-26 (Mon) 24:00
+  * Papers and Feedback from the lecturer: https://www.dropbox.com/s/ppw6uxuqc6vy4ih/Papers%20and%20Feedback.zip?dl=0
 * Term project final presentation
   * Time: 2017-06-21 (Wed) 14:00 ~ 17:00
   * Feedback: https://goo.gl/forms/2Ga8uhqo1ztFwXHM2
