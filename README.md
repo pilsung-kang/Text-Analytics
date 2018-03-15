@@ -2,6 +2,19 @@
 Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
+* Term Project Group
+  * 1조: 손규빈	박경찬	최희정
+  * 2조: 이재융	김혜민	이수연
+  * 3조:	이주현	권원진	정하은		
+  * 4조:	음수민	유지원	김웅	전은석	권구포
+  * 5조:	이도명	김강민	이중호	김다애	
+  * 6조:	채선율	성유연	이창현		
+  * 7조:	안지영	송재승	김문수		
+  * 8조:	최현율	황정임	조억 김명소	
+  * 9조:	이민형	이선화	손주희	최지은	
+  * 10조: 김다연	윤석채	우현희	안건이	이지윤
+  * 11조: 송서하	양우식	정민성					
+
 * Recommended courses
 
 ## Schedule
