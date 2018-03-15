@@ -16,6 +16,8 @@ Unstructured Data Analysis (Graduate) @Korea University
   * 11조: 송서하	양우식	정민성					
 
 * Recommended courses
+  * CS224d: Deep Learning for Natural Language Processing
+    * Course Homepage: http://cs224d.stanford.edu/
 
 ## Schedule
 ## Topic 1: Introduction to Text Mining
