@@ -40,7 +40,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Syntax analysis
 * Other topics in NLP
 * Reading materials
-  * Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). Natural language processing (almost) from scratch. Journal of Machine Learning Research, 12(Aug), 2493-2537. [PDF](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
+  * Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). Natural language processing (almost) from scratch. Journal of Machine Learning Research, 12(Aug), 2493-2537. ([PDF])(http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
 
 ## Topic 4: Document Representation I: Classic Methods
 * Bag of words
