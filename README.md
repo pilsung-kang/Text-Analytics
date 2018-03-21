@@ -45,47 +45,47 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). Natural language processing (almost) from scratch. Journal of Machine Learning Research, 12(Aug), 2493-2537. ([PDF](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf))
   * Young, T., Hazarika, D., Poria, S., & Cambria, E. (2017). Recent trends in deep learning based natural language processing. arXiv preprint arXiv:1708.02709. ([PDF](https://arxiv.org/pdf/1708.02709.pdf))
 
-## Topic 4: Document Representation I: Classic Methods
+## Topic 4-1: Document Representation I: Classic Methods
 * Bag of words
 * Word weighting
 * N-grams
 
-## Topic 5: Document Representation II: Distributed Representation
+## Topic 4-2: Document Representation II: Distributed Representation
 * Word2Vec
 * GloVe
 * FastText
 * Doc2Vec
 
-## Topic 6: Dimensionality Reduction
+## Topic 5: Dimensionality Reduction
 * Dimensionality Reduction
 * Supervised Feature Selection
 * Unsupervised Feature Extraction: Latent Semantic Analysis (LSA) and t-SNE
 * R Example
 
-## Topic 7: Document Similarity & Clustering
+## Topic 6: Document Similarity & Clustering
 * Document similarity metrics
 * Clustering overview
 * K-Means clustering
 * Hierarchical clustering
 * Density-based clustering
 
-## Topic 8: Document Classification I
+## Topic 7: Document Classification I
 * Document classification overview
 * Naive Bayesian classifier
 * k-Nearest Neighbor classifier
 * Classification tree
 * Support Vector Machine (SVM)
 
-## Topic 9: Document Classification II
+## Topic 8: Document Classification II
 * Introduction to Neural Network
 * Recurrent neural network-based document classification
 * Convolutional neural network-based document classification
 
-## Topic 10: Topic Modeling I
+## Topic 9-1: Topic Modeling I
 * Topic modeling overview
 * Probabilistic Latent Semantic Analysis: pLSA
 * LDA: Document Generation Process
 
-## Topic 10: Topic Modeling II
+## Topic 9-2: Topic Modeling II
 * LDA Inference: Gibbs Sampling
 * LDA Evaluation
