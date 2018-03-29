@@ -15,7 +15,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * 10조: 김다연	윤석채	우현희	안건이	이지윤
   * 11조: 송서하	양우식	정민성					
   * 12조:	김동원 박재용 정연재
-* Term project proposal evaluation [link](https://goo.gl/forms/iDDZoKTPCxiOZItb2)
+* Term project proposal evaluation ([link](https://goo.gl/forms/iDDZoKTPCxiOZItb2))
 
 * Recommended courses
   * CS224d @Stanford: Deep Learning for Natural Language Processing
