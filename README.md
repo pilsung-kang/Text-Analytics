@@ -69,6 +69,10 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Supervised Feature Selection
 * Unsupervised Feature Extraction: Latent Semantic Analysis (LSA) and t-SNE
 * R Example
+* Reading materials
+  * Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). Indexing by latent semantic analysis. Journal of the American society for information science, 41(6), 391. ([PDF](http://lsa.colorado.edu/papers/JASIS.lsi.90.pdf))
+  * Dumais, S. T. (2004). Latent semantic analysis. Annual review of information science and technology, 38(1), 188-230.
+  * Maaten, L. V. D., & Hinton, G. (2008). Visualizing data using t-SNE. Journal of machine learning research, 9(Nov), 2579-2605. ([PDF](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)) ([Homepage](https://lvdmaaten.github.io/tsne/))
 
 ## Topic 6: Document Similarity & Clustering
 * Document similarity metrics
@@ -77,23 +81,24 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Hierarchical clustering
 * Density-based clustering
 
-## Topic 7: Document Classification I
+## Topic 7-1: Topic Modeling I
+* Topic modeling overview
+* Probabilistic Latent Semantic Analysis: pLSA
+* LDA: Document Generation Process
+
+## Topic 7-2: Topic Modeling II
+* LDA Inference: Gibbs Sampling
+* LDA Evaluation
+
+## Topic 8: Document Classification I
 * Document classification overview
 * Naive Bayesian classifier
 * k-Nearest Neighbor classifier
 * Classification tree
 * Support Vector Machine (SVM)
 
-## Topic 8: Document Classification II
+## Topic 9: Document Classification II
 * Introduction to Neural Network
 * Recurrent neural network-based document classification
 * Convolutional neural network-based document classification
 
-## Topic 9-1: Topic Modeling I
-* Topic modeling overview
-* Probabilistic Latent Semantic Analysis: pLSA
-* LDA: Document Generation Process
-
-## Topic 9-2: Topic Modeling II
-* LDA Inference: Gibbs Sampling
-* LDA Evaluation
