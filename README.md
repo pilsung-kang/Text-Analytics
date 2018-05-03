@@ -17,6 +17,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * 12조:	김동원 박재용 정연재
 * Term project proposal evaluation ([link](https://goo.gl/forms/iDDZoKTPCxiOZItb2))
 * Term project proposal feedback ([download](https://www.dropbox.com/s/lbi9vp824nxel2i/2018_Term%20Project_%EC%A0%9C%EC%95%88%EB%B0%9C%ED%91%9C%20%ED%94%BC%EB%93%9C%EB%B0%B1.xlsx?dl=0))
+* Term project interim presentation evaluation ([link](https://goo.gl/forms/aw74JiJlrCtNKPmy1))
 
 * Recommended courses
   * CS224d @Stanford: Deep Learning for Natural Language Processing
