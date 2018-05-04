@@ -18,6 +18,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Term project proposal evaluation ([link](https://goo.gl/forms/iDDZoKTPCxiOZItb2))
 * Term project proposal feedback ([download](https://www.dropbox.com/s/lbi9vp824nxel2i/2018_Term%20Project_%EC%A0%9C%EC%95%88%EB%B0%9C%ED%91%9C%20%ED%94%BC%EB%93%9C%EB%B0%B1.xlsx?dl=0))
 * Term project interim presentation evaluation ([link](https://goo.gl/forms/aw74JiJlrCtNKPmy1))
+* Term project interim presentation feedback ([Lecturer](https://www.dropbox.com/s/gm0nttsexwgh0rn/%EB%B9%84%EC%A0%95%ED%98%95%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.zip?dl=0))
 
 * Recommended courses
   * CS224d @Stanford: Deep Learning for Natural Language Processing
