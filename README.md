@@ -113,4 +113,13 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Introduction to Neural Network
 * Recurrent neural network-based document classification
 * Convolutional neural network-based document classification
+* Reading materials
+  * Kim, Y. (2014). Convolutional neural networks for sentence classification. arXiv preprint arXiv:1408.5882. ([PDF](http://www.aclweb.org/anthology/D14-1181))
+  * Zhang, X., Zhao, J., & LeCun, Y. (2015). Character-level convolutional networks for text classification. In Advances in neural information processing systems (pp. 649-657) ([PDF](https://arxiv.org/pdf/1509.01626.pdf))
+  * Lee, G., Jeong, J., Seo, S., Kim, C, & Kang, P. (2018). Sentiment classification with word localization based on weakly supervised learning with a convolutional neural network. Knowledge-Based Systems, 152, 70-82. ([PDF](https://www.sciencedirect.com/science/article/pii/S0950705118301710))
+  * Yang, Z., Yang, D., Dyer, C., He, X., Smola, A., & Hovy, E. (2016). Hierarchical attention networks for document classification. In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1480-1489). ([PDF](http://www.aclweb.org/anthology/N16-1174))
+  * Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473. ([PDF](https://arxiv.org/pdf/1409.0473.pdf))
+  * Luong, M. T., Pham, H., & Manning, C. D. (2015). Effective approaches to attention-based neural machine translation. arXiv preprint arXiv:1508.04025. ([PDF](https://arxiv.org/pdf/1508.04025.pdf))
+  
+
 
