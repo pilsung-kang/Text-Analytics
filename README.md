@@ -2,6 +2,10 @@
 Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
+* **Final Exam**
+  * Date & Time: 2018-06-21(Thu) 15:30~18:00
+  * Place: Innovation Hall (창의관) 116
+
 * Term Project Group
   * 1조: 손규빈	박경찬	최희정
   * 2조: 이재융	김혜민	이수연
