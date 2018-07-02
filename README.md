@@ -2,6 +2,9 @@
 Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
+* **Final Score**
+* Final score ([download](https://www.dropbox.com/s/4hxpn01ekoh3xr8/2018_UDA_%EC%84%B1%EC%A0%81_%EB%B0%B0%ED%8F%AC%EC%9A%A9.xlsx?dl=0))
+
 * **Final Exam**
   * Date & Time: 2018-06-21(Thu) 15:30~18:00
   * Place: Innovation Hall (창의관) 116
