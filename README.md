@@ -2,33 +2,8 @@
 Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
-* **Final Score**
-* Final score ([download](https://www.dropbox.com/s/4hxpn01ekoh3xr8/2018_UDA_%EC%84%B1%EC%A0%81_%EB%B0%B0%ED%8F%AC%EC%9A%A9.xlsx?dl=0))
 
-* **Final Exam**
-  * Date & Time: 2018-06-21(Thu) 15:30~18:00
-  * Place: Innovation Hall (창의관) 116
-
-* Term Project Group
-  * 1조: 손규빈	박경찬	최희정
-  * 2조: 이재융	김혜민	이수연
-  * 3조:	이주현	권원진	정하은 최현석		
-  * 4조:	음수민	유지원	김웅	전은석	권구포
-  * 5조:	이도명	김강민	이중호	김다애	
-  * 6조:	채선율	성유연	이창현		
-  * 7조:	안지영	송재승	김문수	최지은	
-  * 8조:	최현율	황정임	조억 김명소	
-  * 9조:	이민형	이선화	손주희	김준호	
-  * 10조: 김다연	윤석채	우현희	안건이	이지윤
-  * 11조: 송서하	양우식	정민성					
-  * 12조:	김동원 박재용 정연재
-* Term project proposal evaluation ([link](https://goo.gl/forms/iDDZoKTPCxiOZItb2))
-* Term project proposal feedback ([download](https://www.dropbox.com/s/lbi9vp824nxel2i/2018_Term%20Project_%EC%A0%9C%EC%95%88%EB%B0%9C%ED%91%9C%20%ED%94%BC%EB%93%9C%EB%B0%B1.xlsx?dl=0))
-* Term project interim presentation evaluation ([link](https://goo.gl/forms/aw74JiJlrCtNKPmy1))
-* Term project interim presentation feedback ([Lecturer](https://www.dropbox.com/s/gm0nttsexwgh0rn/%EB%B9%84%EC%A0%95%ED%98%95%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.zip?dl=0), [Students](https://www.dropbox.com/s/19prvzvht1vbllr/%EB%B9%84%EC%A0%95%ED%98%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%20%ED%95%99%EC%83%9D%20%ED%8F%89%EA%B0%80_%EB%B0%B0%ED%8F%AC%EC%9A%A9.xlsx?dl=0))
-* Term project final presentation evaluation ([link](https://goo.gl/forms/VHFytzJ30vGXgxVP2))
-
-* Recommended courses
+## Recommended courses
   * CS224d @Stanford: Deep Learning for Natural Language Processing
     * Course Homepage: http://cs224d.stanford.edu/
     * YouTube Video: https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG
