@@ -2,6 +2,7 @@
 Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
+* Syllabus ([download](https://github.com/pilsung-kang/text-mining/blob/master/2019_Spring_Unstructured%20Data%20Analysis.pdf))
 
 ## Recommended courses
   * CS224d @Stanford: Deep Learning for Natural Language Processing
