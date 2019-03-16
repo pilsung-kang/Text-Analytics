@@ -2,33 +2,9 @@
 Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
-* **Final Score**
-* Final score ([download](https://www.dropbox.com/s/4hxpn01ekoh3xr8/2018_UDA_%EC%84%B1%EC%A0%81_%EB%B0%B0%ED%8F%AC%EC%9A%A9.xlsx?dl=0))
+* Syllabus ([download](https://github.com/pilsung-kang/text-mining/blob/master/2019_Spring_Unstructured%20Data%20Analysis.pdf))
 
-* **Final Exam**
-  * Date & Time: 2018-06-21(Thu) 15:30~18:00
-  * Place: Innovation Hall (창의관) 116
-
-* Term Project Group
-  * 1조: 손규빈	박경찬	최희정
-  * 2조: 이재융	김혜민	이수연
-  * 3조:	이주현	권원진	정하은 최현석		
-  * 4조:	음수민	유지원	김웅	전은석	권구포
-  * 5조:	이도명	김강민	이중호	김다애	
-  * 6조:	채선율	성유연	이창현		
-  * 7조:	안지영	송재승	김문수	최지은	
-  * 8조:	최현율	황정임	조억 김명소	
-  * 9조:	이민형	이선화	손주희	김준호	
-  * 10조: 김다연	윤석채	우현희	안건이	이지윤
-  * 11조: 송서하	양우식	정민성					
-  * 12조:	김동원 박재용 정연재
-* Term project proposal evaluation ([link](https://goo.gl/forms/iDDZoKTPCxiOZItb2))
-* Term project proposal feedback ([download](https://www.dropbox.com/s/lbi9vp824nxel2i/2018_Term%20Project_%EC%A0%9C%EC%95%88%EB%B0%9C%ED%91%9C%20%ED%94%BC%EB%93%9C%EB%B0%B1.xlsx?dl=0))
-* Term project interim presentation evaluation ([link](https://goo.gl/forms/aw74JiJlrCtNKPmy1))
-* Term project interim presentation feedback ([Lecturer](https://www.dropbox.com/s/gm0nttsexwgh0rn/%EB%B9%84%EC%A0%95%ED%98%95%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.zip?dl=0), [Students](https://www.dropbox.com/s/19prvzvht1vbllr/%EB%B9%84%EC%A0%95%ED%98%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%20%ED%95%99%EC%83%9D%20%ED%8F%89%EA%B0%80_%EB%B0%B0%ED%8F%AC%EC%9A%A9.xlsx?dl=0))
-* Term project final presentation evaluation ([link](https://goo.gl/forms/VHFytzJ30vGXgxVP2))
-
-* Recommended courses
+## Recommended courses
   * CS224d @Stanford: Deep Learning for Natural Language Processing
     * Course Homepage: http://cs224d.stanford.edu/
     * YouTube Video: https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG
@@ -39,16 +15,15 @@ Unstructured Data Analysis (Graduate) @Korea University
     * Course Homepage: https://github.com/oxford-cs-deepnlp-2017/lectures
 
 ## Schedule
-## Topic 1: Introduction to Text Mining
+## Topic 1: Introduction to Text Analytics
 * The usefullness of large amount of text data and the challenges
-* Overview of text mining methods
+* Overview of text analytics methods
 
 ## Topic 2: From Texts to Data
-* Obtain texts to analyze
-* Text data collection through APIs and web scraping
+* Text data collection: Web scraping
 
-## Topic 3: Natural Language Processing
-* Introduction to NLP
+## Topic 3: Text Preprocessing
+* Introduction to Natural Language Processing (NLP)
 * Lexical analysis
 * Syntax analysis
 * Other topics in NLP
@@ -57,12 +32,18 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). Natural language processing (almost) from scratch. Journal of Machine Learning Research, 12(Aug), 2493-2537. ([PDF](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf))
   * Young, T., Hazarika, D., Poria, S., & Cambria, E. (2017). Recent trends in deep learning based natural language processing. arXiv preprint arXiv:1708.02709. ([PDF](https://arxiv.org/pdf/1708.02709.pdf))
 
-## Topic 4-1: Document Representation I: Classic Methods
+## Topic 4: Neural Networks Basics
+* Perception, Multi-layered Perceptron
+* Convolutional Neural Networks (CNN)
+* Recurrent Neural Networks (RNN)
+* Practical Techniques
+
+## Topic 5-1: Document Representation I: Classic Methods
 * Bag of words
 * Word weighting
 * N-grams
 
-## Topic 4-2: Document Representation II: Distributed Representation
+## Topic 5-2: Document Representation II: Distributed Representation
 * Word2Vec
 * GloVe
 * FastText
@@ -74,7 +55,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Pennington, J., Socher, R., & Manning, C. (2014). Glove: Global vectors for word representation. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) (pp. 1532-1543). ([PDF](http://www.aclweb.org/anthology/D14-1162))
   * Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2016). Enriching word vectors with subword information. arXiv preprint arXiv:1607.04606. ([PDF](https://arxiv.org/pdf/1607.04606.pdf))
 
-## Topic 5: Dimensionality Reduction
+## Topic 6: Dimensionality Reduction
 * Dimensionality Reduction
 * Supervised Feature Selection
 * Unsupervised Feature Extraction: Latent Semantic Analysis (LSA) and t-SNE
@@ -84,7 +65,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Dumais, S. T. (2004). Latent semantic analysis. Annual review of information science and technology, 38(1), 188-230.
   * Maaten, L. V. D., & Hinton, G. (2008). Visualizing data using t-SNE. Journal of machine learning research, 9(Nov), 2579-2605. ([PDF](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)) ([Homepage](https://lvdmaaten.github.io/tsne/))
 
-## Topic 6: Document Similarity & Clustering
+## Topic 7: Document Similarity & Clustering
 * Document similarity metrics
 * Clustering overview
 * K-Means clustering
@@ -93,7 +74,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Reading materials
   * Jain, A. K., Murty, M. N., & Flynn, P. J. (1999). Data clustering: a review. ACM computing surveys (CSUR), 31(3), 264-323. ([PDF](http://dataclustering.cse.msu.edu/papers/MSU-CSE-00-16.pdf))
 
-## Topic 7-1: Topic Modeling I
+## Topic 8-1: Topic Modeling I
 * Topic modeling overview
 * Probabilistic Latent Semantic Analysis: pLSA
 * LDA: Document Generation Process
@@ -103,24 +84,18 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Blei, D. M. (2012). Probabilistic topic models. Communications of the ACM, 55(4), 77-84. ([PDF](http://delivery.acm.org/10.1145/2140000/2133826/p77-blei.pdf?ip=175.114.11.68&id=2133826&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1524148444_1a7687d674528eeabc9a97afa2db5a29))
   * Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent dirichlet allocation. Journal of machine Learning research, 3(Jan), 993-1022. ([PDF](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf))
 
-## Topic 7-2: Topic Modeling II
+## Topic 8-2: Topic Modeling II
 * LDA Inference: Gibbs Sampling
 * LDA Evaluation
 * Recommended video lectures
   * LDA by D. Blei ([Lecture Video](http://videolectures.net/mlss09uk_blei_tm/))
   * Variational Inference for LDA by D. Blei ([Lecture Video](https://www.youtube.com/watch?v=Dv86zdWjJKQ&t=113s))
 
-## Topic 8: Document Classification I
+## Topic 9: Document Classification
 * Document classification overview
 * Naive Bayesian classifier
-* k-Nearest Neighbor classifier
-* Classification tree
-* Support Vector Machine (SVM)
-
-## Topic 9: Document Classification II
-* Introduction to Neural Network
-* Recurrent neural network-based document classification
-* Convolutional neural network-based document classification
+* RNN-based document classification
+* CNN-based document classification
 * Reading materials
   * Kim, Y. (2014). Convolutional neural networks for sentence classification. arXiv preprint arXiv:1408.5882. ([PDF](http://www.aclweb.org/anthology/D14-1181))
   * Zhang, X., Zhao, J., & LeCun, Y. (2015). Character-level convolutional networks for text classification. In Advances in neural information processing systems (pp. 649-657) ([PDF](https://arxiv.org/pdf/1509.01626.pdf))
