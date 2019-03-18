@@ -3,6 +3,16 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
 * Syllabus ([download](https://github.com/pilsung-kang/text-mining/blob/master/2019_Spring_Unstructured%20Data%20Analysis.pdf))
+* Term project groups
+  * 1조: 박성훈, 이수빈(2018021120), 이준걸, 박혜준
+  * 2조: 이정호, 천우진, 유초롱, 조규원
+  * 3조: 백승호, 목충협, 변준형, 이영재
+  * 4조: 박건빈, 이수빈(2018020530), 변윤선, 권순찬
+  * 5조: 최종현, 이정훈, 박중민, 노영빈
+  * 6조: 백인성, 김은비, 신욱수, 강현규
+  * 7조: 전성찬, 박현지, 문관영
+  * 8조: 조용원, 정승섭, 민다빈, 최민서
+  * 9조: 박명현, 장은아, 유건령 
 
 ## Recommended courses
   * CS224d @Stanford: Deep Learning for Natural Language Processing
