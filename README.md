@@ -3,7 +3,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
 * Syllabus ([download](https://github.com/pilsung-kang/text-mining/blob/master/2019_Spring_Unstructured%20Data%20Analysis.pdf))
-* Term project groups
+* **Term project groups**
   * 1조: 박성훈, 이수빈(2018021120), 이준걸, 박혜준
   * 2조: 이정호, 천우진, 유초롱, 조규원
   * 3조: 백승호, 목충협, 변준형, 이영재
@@ -13,10 +13,13 @@ Unstructured Data Analysis (Graduate) @Korea University
   * 7조: 전성찬, 박현지, 문관영
   * 8조: 조용원, 정승섭, 민다빈, 최민서
   * 9조: 박명현, 장은아, 유건령 
-* Term project proposal
+* **Term project proposal**
   * [Evaluation](https://forms.gle/YhiziBFyDZX68uzr7) (due: 4/4 Thu. 23:59)
   * [Comments by the lecturer](https://www.dropbox.com/s/tn6a17yp5bz0yq3/Term%20Project%20Proposal%20%ED%8F%89%EA%B0%80%ED%91%9C_%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf?dl=0)
   * [Comments by students](https://www.dropbox.com/s/n8sarx07n4xs54s/2019%20Term%20Project%20Proposal%20Evaluation%20%28Responses%29_upload.xlsx?dl=0)
+* **Term project inteim presentation*
+  * [Presentation Slides](https://www.dropbox.com/s/x34lwhqxej70e07/%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.zip?dl=0)
+  * [Evaluation](https://forms.gle/cKtSeCVtNR7yFQGn8) (due: 5/21 Tue. 23:59)
 
 ## Recommended courses
   * CS224d @Stanford: Deep Learning for Natural Language Processing
