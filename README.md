@@ -2,7 +2,7 @@
 Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
-* Syllabus ([download](https://github.com/pilsung-kang/text-mining/blob/master/2019_Spring_Unstructured%20Data%20Analysis.pdf))
+* **Syllabus** ([download](https://github.com/pilsung-kang/text-mining/blob/master/2019_Spring_Unstructured%20Data%20Analysis.pdf))
 * **Term project groups**
   * 1조: 박성훈, 이수빈(2018021120), 이준걸, 박혜준
   * 2조: 이정호, 천우진, 유초롱, 조규원
@@ -22,6 +22,11 @@ Unstructured Data Analysis (Graduate) @Korea University
   * [Evaluation](https://forms.gle/cKtSeCVtNR7yFQGn8) (due: 5/21 Tue. 23:59)
   * [Comments by the lecturer](https://www.dropbox.com/s/hkp9rxpdr67dfu7/Term%20Project%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%20%ED%8F%89%EA%B0%80%ED%91%9C_%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf?dl=0)
   * [Comments by students](https://www.dropbox.com/s/vknfuooy7gx0afn/2019%20Term%20Project%20Interim%20Presentation%20Evaluation%20%28Responses%29_upload.xlsx?dl=0)
+* **Final Exam**
+  * Date and Place: 2019-06-20 15:00~17:30, New Engineering Hall 218/224 ([download](https://www.dropbox.com/s/keg4tjtw4uiu8u8/2019_%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%EC%84%B1%EC%A0%81.xlsx?dl=0))
+  * A non-programmable calculator is allowed, smart phones must be turned off
+  * A hand-written cheating paper (A4 size, 3 pages, back and forth) is allowed
+
 
 ## Recommended courses
   * CS224d @Stanford: Deep Learning for Natural Language Processing
