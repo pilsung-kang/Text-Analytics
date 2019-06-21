@@ -22,6 +22,9 @@ Unstructured Data Analysis (Graduate) @Korea University
   * [Evaluation](https://forms.gle/cKtSeCVtNR7yFQGn8) (due: 5/21 Tue. 23:59)
   * [Comments by the lecturer](https://www.dropbox.com/s/hkp9rxpdr67dfu7/Term%20Project%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%20%ED%8F%89%EA%B0%80%ED%91%9C_%EB%B0%B0%ED%8F%AC%EC%9A%A9.pdf?dl=0)
   * [Comments by students](https://www.dropbox.com/s/vknfuooy7gx0afn/2019%20Term%20Project%20Interim%20Presentation%20Evaluation%20%28Responses%29_upload.xlsx?dl=0)
+* **Term project final presentation**
+  * [Presentation Slides](https://www.dropbox.com/s/jteta4050zrl9c6/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.zip?dl=0)
+  * [Evaluation](https://forms.gle/H6RjV7MkT7CKMeGq9) (due: 6/22 Sat. 23:59)
 * **Final Exam**
   * Date and Place: 2019-06-20 15:30~17:30, New Engineering Hall 218/224 ([download](https://www.dropbox.com/s/cd44rno6f6ihda8/2019_%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%EA%B8%B0%EB%A7%90%EA%B3%A0%EC%82%AC%20%EC%9E%A5%EC%86%8C%EB%B0%B0%EC%A0%95.xlsx?dl=0))
   * A non-programmable calculator is allowed, smart phones must be turned off
