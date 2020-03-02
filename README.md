@@ -16,8 +16,8 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Schedule
 ## Topic 1: Introduction to Text Analytics
-* The usefullness of large amount of text data and the challenges
-* Overview of text analytics methods
+* Text Analytics: Backgrounds, Applications, & Challanges, and Process
+* Text Analytics Process
 
 ## Topic 2: From Texts to Data
 * Text data collection: Web scraping
