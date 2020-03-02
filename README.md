@@ -1,4 +1,4 @@
-# text-mining
+# text-analytics
 Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
@@ -40,7 +40,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Word weighting
 * N-grams
 
-## Topic 5: Document Representation II: Distributed Representation
+## Topic 5: Text Representation II: Distributed Representation
 * Word2Vec
 * GloVe
 * FastText
