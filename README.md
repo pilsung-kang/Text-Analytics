@@ -9,7 +9,7 @@ Unstructured Data Analysis (Graduate) @Korea University
     * Course Homepage: http://cs224d.stanford.edu/
     * YouTube Video: https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG
   * CS224n @Stanford: Natural Language Processing Deep Learning
-    * Course Homepage: http://web.stanford.edu/class/cs224n/syllabus.html
+    * Course Homepage: http://web.stanford.edu/class/cs224n/
     * Youtube Video: https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
   * Deep Natural Lanugage Processing @Oxford
     * Course Homepage: https://github.com/oxford-cs-deepnlp-2017/lectures
