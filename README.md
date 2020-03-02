@@ -35,12 +35,12 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Recurrent Neural Networks (RNN)
 * Practical Techniques
 
-## Topic 4-1: Text Representation I: Classic Methods
+## Topic 4: Text Representation I: Classic Methods
 * Bag of words
 * Word weighting
 * N-grams
 
-## Topic 4-2: Document Representation II: Distributed Representation
+## Topic 5: Document Representation II: Distributed Representation
 * Word2Vec
 * GloVe
 * FastText
@@ -52,7 +52,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Pennington, J., Socher, R., & Manning, C. (2014). Glove: Global vectors for word representation. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) (pp. 1532-1543). ([PDF](http://www.aclweb.org/anthology/D14-1162))
   * Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2016). Enriching word vectors with subword information. arXiv preprint arXiv:1607.04606. ([PDF](https://arxiv.org/pdf/1607.04606.pdf))
 
-## Topic 4-3: Topic Modeling as a Distributed Reprentation
+## Topic 6: Topic Modeling as a Distributed Reprentation
 * Topic modeling overview & Latent Semantic Analysis (LSA)
 * Probabilistic Latent Semantic Analysis: pLSA
 * LDA: Document Generation Process
@@ -69,7 +69,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * LDA by D. Blei ([Lecture Video](http://videolectures.net/mlss09uk_blei_tm/))
   * Variational Inference for LDA by D. Blei ([Lecture Video](https://www.youtube.com/watch?v=Dv86zdWjJKQ&t=113s))
 
-## Topic 4-4: Language Modeling & Pre-trained Models
+## Topic 7: Language Modeling & Pre-trained Models
 * Sequence-to-Sequence Learning
 * Transformer
 * ELMo: Embeddings from Language Models
@@ -77,13 +77,13 @@ Unstructured Data Analysis (Graduate) @Korea University
 * BERT: Bidirectional Encoder Representations from Transformer
 * GPT-2: Language Models are Unsupervised Multitask Learners
 
-## Topic 5: Dimensionality Reduction
+## Topic 8: Dimensionality Reduction
 * Dimensionality Reduction
 * Supervised Feature Selection
 * Reading materials
   * Maaten, L. V. D., & Hinton, G. (2008). Visualizing data using t-SNE. Journal of machine learning research, 9(Nov), 2579-2605. ([PDF](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)) ([Homepage](https://lvdmaaten.github.io/tsne/))
 
-## Topic 6: Document Classification
+## Topic 9: Document Classification
 * Document classification overview
 * Naive Bayesian classifier
 * RNN-based document classification
@@ -96,7 +96,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473. ([PDF](https://arxiv.org/pdf/1409.0473.pdf))
   * Luong, M. T., Pham, H., & Manning, C. D. (2015). Effective approaches to attention-based neural machine translation. arXiv preprint arXiv:1508.04025. ([PDF](https://arxiv.org/pdf/1508.04025.pdf))
 
-## Topic 7: Sentiment Analysis
+## Topic 10: Sentiment Analysis
 * Architecture of sentiment analysis
 * Lexicon-based approach
 * Machine learning-based approach
