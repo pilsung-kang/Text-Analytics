@@ -19,10 +19,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Text Analytics: Backgrounds, Applications, & Challanges, and Process
 * Text Analytics Process
 
-## Topic 2: From Texts to Data
-* Text data collection: Web scraping
-
-## Topic 3: Text Preprocessing
+## Topic 2: Text Preprocessing
 * Introduction to Natural Language Processing (NLP)
 * Lexical analysis
 * Syntax analysis
@@ -31,8 +28,9 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Cambria, E., & White, B. (2014). Jumping NLP curves: A review of natural language processing research. IEEE Computational intelligence magazine, 9(2), 48-57. ([PDF](http://ieeexplore.ieee.org/abstract/document/6786458/))
   * Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). Natural language processing (almost) from scratch. Journal of Machine Learning Research, 12(Aug), 2493-2537. ([PDF](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf))
   * Young, T., Hazarika, D., Poria, S., & Cambria, E. (2017). Recent trends in deep learning based natural language processing. arXiv preprint arXiv:1708.02709. ([PDF](https://arxiv.org/pdf/1708.02709.pdf))
+  * NLP Year in Review - 2019 ([Medium Post](https://medium.com/dair-ai/nlp-year-in-review-2019-fb8d523bcb19))
 
-## Topic 4: Neural Networks Basics
+## Topic 3: Neural Networks Basics
 * Perception, Multi-layered Perceptron
 * Convolutional Neural Networks (CNN)
 * Recurrent Neural Networks (RNN)
