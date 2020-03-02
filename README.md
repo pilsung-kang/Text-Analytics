@@ -35,12 +35,12 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Recurrent Neural Networks (RNN)
 * Practical Techniques
 
-## Topic 5-1: Document Representation I: Classic Methods
+## Topic 4-1: Text Representation I: Classic Methods
 * Bag of words
 * Word weighting
 * N-grams
 
-## Topic 5-2: Document Representation II: Distributed Representation
+## Topic 4-2: Document Representation II: Distributed Representation
 * Word2Vec
 * GloVe
 * FastText
@@ -52,43 +52,38 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Pennington, J., Socher, R., & Manning, C. (2014). Glove: Global vectors for word representation. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) (pp. 1532-1543). ([PDF](http://www.aclweb.org/anthology/D14-1162))
   * Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2016). Enriching word vectors with subword information. arXiv preprint arXiv:1607.04606. ([PDF](https://arxiv.org/pdf/1607.04606.pdf))
 
-## Topic 6: Dimensionality Reduction
-* Dimensionality Reduction
-* Supervised Feature Selection
-* Unsupervised Feature Extraction: Latent Semantic Analysis (LSA) and t-SNE
-* R Example
-* Reading materials
-  * Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). Indexing by latent semantic analysis. Journal of the American society for information science, 41(6), 391. ([PDF](http://lsa.colorado.edu/papers/JASIS.lsi.90.pdf))
-  * Dumais, S. T. (2004). Latent semantic analysis. Annual review of information science and technology, 38(1), 188-230.
-  * Maaten, L. V. D., & Hinton, G. (2008). Visualizing data using t-SNE. Journal of machine learning research, 9(Nov), 2579-2605. ([PDF](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)) ([Homepage](https://lvdmaaten.github.io/tsne/))
-
-## Topic 7: Document Similarity & Clustering
-* Document similarity metrics
-* Clustering overview
-* K-Means clustering
-* Hierarchical clustering
-* Density-based clustering
-* Reading materials
-  * Jain, A. K., Murty, M. N., & Flynn, P. J. (1999). Data clustering: a review. ACM computing surveys (CSUR), 31(3), 264-323. ([PDF](http://dataclustering.cse.msu.edu/papers/MSU-CSE-00-16.pdf))
-
-## Topic 8-1: Topic Modeling I
-* Topic modeling overview
+## Topic 4-3: Topic Modeling as a Distributed Reprentation
+* Topic modeling overview & Latent Semantic Analysis (LSA)
 * Probabilistic Latent Semantic Analysis: pLSA
 * LDA: Document Generation Process
-* Reading materials
+* LDA Inference: Gibbs Sampling
+* LDA Evaluation
+* Reading Materials
+  * Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). Indexing by latent semantic analysis. Journal of the American society for information science, 41(6), 391. ([PDF](http://lsa.colorado.edu/papers/JASIS.lsi.90.pdf))
+  * Dumais, S. T. (2004). Latent semantic analysis. Annual review of information science and technology, 38(1), 188-230.
   * Hofmann, T. (1999, July). Probabilistic latent semantic analysis. In Proceedings of the Fifteenth conference on Uncertainty in artificial intelligence (pp. 289-296). Morgan Kaufmann Publishers Inc. ([PDF](http://www.iro.umontreal.ca/~nie/IFT6255/Hofmann-UAI99.pdf))
   * Hofmann, T. (2017, August). Probabilistic latent semantic indexing. In ACM SIGIR Forum (Vol. 51, No. 2, pp. 211-218). ACM.
   * Blei, D. M. (2012). Probabilistic topic models. Communications of the ACM, 55(4), 77-84. ([PDF](http://delivery.acm.org/10.1145/2140000/2133826/p77-blei.pdf?ip=175.114.11.68&id=2133826&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1524148444_1a7687d674528eeabc9a97afa2db5a29))
   * Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent dirichlet allocation. Journal of machine Learning research, 3(Jan), 993-1022. ([PDF](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf))
-
-## Topic 8-2: Topic Modeling II
-* LDA Inference: Gibbs Sampling
-* LDA Evaluation
 * Recommended video lectures
   * LDA by D. Blei ([Lecture Video](http://videolectures.net/mlss09uk_blei_tm/))
   * Variational Inference for LDA by D. Blei ([Lecture Video](https://www.youtube.com/watch?v=Dv86zdWjJKQ&t=113s))
 
-## Topic 9: Document Classification
+## Topic 4-4: Language Modeling & Pre-trained Models
+* Sequence-to-Sequence Learning
+* Transformer
+* ELMo: Embeddings from Language Models
+* GPT: Generative Pre-Training of a Language Model
+* BERT: Bidirectional Encoder Representations from Transformer
+* GPT-2: Language Models are Unsupervised Multitask Learners
+
+## Topic 5: Dimensionality Reduction
+* Dimensionality Reduction
+* Supervised Feature Selection
+* Reading materials
+  * Maaten, L. V. D., & Hinton, G. (2008). Visualizing data using t-SNE. Journal of machine learning research, 9(Nov), 2579-2605. ([PDF](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)) ([Homepage](https://lvdmaaten.github.io/tsne/))
+
+## Topic 6: Document Classification
 * Document classification overview
 * Naive Bayesian classifier
 * RNN-based document classification
@@ -101,7 +96,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473. ([PDF](https://arxiv.org/pdf/1409.0473.pdf))
   * Luong, M. T., Pham, H., & Manning, C. D. (2015). Effective approaches to attention-based neural machine translation. arXiv preprint arXiv:1508.04025. ([PDF](https://arxiv.org/pdf/1508.04025.pdf))
 
-## Topic 10: Sentiment Analysis
+## Topic 7: Sentiment Analysis
 * Architecture of sentiment analysis
 * Lexicon-based approach
 * Machine learning-based approach
