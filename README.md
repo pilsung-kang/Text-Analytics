@@ -20,8 +20,8 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Text Analytics Process [[Video](https://www.youtube.com/watch?v=Y0zrFVZqnl4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=3)]
 
 ## Topic 2: Text Preprocessing
-* Introduction to Natural Language Processing (NLP)
-* Lexical analysis
+* Introduction to Natural Language Processing (NLP) [[Video](https://www.youtube.com/watch?v=NLaxlUKFVw4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5&t=0s)]
+* Lexical analysis [[Video](https://www.youtube.com/watch?v=5gt1KvkkOlc&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5)]
 * Syntax analysis & Other topics in NLP
 * Reading materials
   * Cambria, E., & White, B. (2014). Jumping NLP curves: A review of natural language processing research. IEEE Computational intelligence magazine, 9(2), 48-57. ([PDF](http://ieeexplore.ieee.org/abstract/document/6786458/))
