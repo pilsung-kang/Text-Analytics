@@ -29,7 +29,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Young, T., Hazarika, D., Poria, S., & Cambria, E. (2017). Recent trends in deep learning based natural language processing. arXiv preprint arXiv:1708.02709. ([PDF](https://arxiv.org/pdf/1708.02709.pdf))
   * NLP Year in Review - 2019 ([Medium Post](https://medium.com/dair-ai/nlp-year-in-review-2019-fb8d523bcb19))
 
-## Topic 3: Neural Networks Basics
+## Topic 3: Neural Networks Basics (Optional, No Video Lectures)
 * Perception, Multi-layered Perceptron
 * Convolutional Neural Networks (CNN)
 * Recurrent Neural Networks (RNN)
