@@ -36,9 +36,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Practical Techniques
 
 ## Topic 4: Text Representation I: Classic Methods
-* Bag of words
-* Word weighting
-* N-grams
+* Bag of words, Word weighting, N-grams [[Video](https://www.youtube.com/watch?v=DMNUVGbLp-0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=7)]
 
 ## Topic 5: Text Representation II: Distributed Representation
 * Word2Vec
