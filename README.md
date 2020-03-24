@@ -39,10 +39,10 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Bag of words, Word weighting, N-grams [[Video](https://www.youtube.com/watch?v=DMNUVGbLp-0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=7)]
 
 ## Topic 5: Text Representation II: Distributed Representation
+* Neural Network Language Model (NNLM)
 * Word2Vec
 * GloVe
-* FastText
-* Doc2Vec
+* FastText, Doc2Vec, and Other Embeddings
 * Reading materials
   * Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). A neural probabilistic language model. Journal of machine learning research, 3(Feb), 1137-1155. ([PDF](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf))
   * Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781. ([PDF](https://arxiv.org/pdf/1301.3781.pdf))
