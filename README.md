@@ -50,7 +50,13 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Pennington, J., Socher, R., & Manning, C. (2014). Glove: Global vectors for word representation. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) (pp. 1532-1543). ([PDF](http://www.aclweb.org/anthology/D14-1162))
   * Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2016). Enriching word vectors with subword information. arXiv preprint arXiv:1607.04606. ([PDF](https://arxiv.org/pdf/1607.04606.pdf))
 
-## Topic 6: Topic Modeling as a Distributed Reprentation
+## Topic 6: Dimensionality Reduction
+* Dimensionality Reduction
+* Supervised Feature Selection
+* Reading materials
+  * Maaten, L. V. D., & Hinton, G. (2008). Visualizing data using t-SNE. Journal of machine learning research, 9(Nov), 2579-2605. ([PDF](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)) ([Homepage](https://lvdmaaten.github.io/tsne/))
+
+## Topic 7: Topic Modeling as a Distributed Reprentation
 * Topic modeling overview & Latent Semantic Analysis (LSA)
 * Probabilistic Latent Semantic Analysis: pLSA
 * LDA: Document Generation Process
@@ -67,19 +73,13 @@ Unstructured Data Analysis (Graduate) @Korea University
   * LDA by D. Blei ([Lecture Video](http://videolectures.net/mlss09uk_blei_tm/))
   * Variational Inference for LDA by D. Blei ([Lecture Video](https://www.youtube.com/watch?v=Dv86zdWjJKQ&t=113s))
 
-## Topic 7: Language Modeling & Pre-trained Models
+## Topic 8: Language Modeling & Pre-trained Models
 * Sequence-to-Sequence Learning
 * Transformer
 * ELMo: Embeddings from Language Models
 * GPT: Generative Pre-Training of a Language Model
 * BERT: Bidirectional Encoder Representations from Transformer
 * GPT-2: Language Models are Unsupervised Multitask Learners
-
-## Topic 8: Dimensionality Reduction
-* Dimensionality Reduction
-* Supervised Feature Selection
-* Reading materials
-  * Maaten, L. V. D., & Hinton, G. (2008). Visualizing data using t-SNE. Journal of machine learning research, 9(Nov), 2579-2605. ([PDF](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)) ([Homepage](https://lvdmaaten.github.io/tsne/))
 
 ## Topic 9: Document Classification
 * Document classification overview
