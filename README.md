@@ -39,7 +39,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Bag of words, Word weighting, N-grams [[Video](https://www.youtube.com/watch?v=DMNUVGbLp-0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=7)]
 
 ## Topic 5: Text Representation II: Distributed Representation
-* Neural Network Language Model (NNLM)
+* Neural Network Language Model (NNLM) [[Video](https://www.youtube.com/watch?v=bvSHJG-Fz3Y&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=8)]
 * Word2Vec
 * GloVe
 * FastText, Doc2Vec, and Other Embeddings
