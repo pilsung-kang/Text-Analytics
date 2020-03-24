@@ -20,25 +20,23 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Text Analytics Process [[Video](https://www.youtube.com/watch?v=Y0zrFVZqnl4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=3)]
 
 ## Topic 2: Text Preprocessing
-* Introduction to Natural Language Processing (NLP)
-* Lexical analysis
-* Syntax analysis & Other topics in NLP
+* Introduction to Natural Language Processing (NLP) [[Video](https://www.youtube.com/watch?v=NLaxlUKFVw4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5&t=0s)]
+* Lexical analysis [[Video](https://www.youtube.com/watch?v=5gt1KvkkOlc&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5)]
+* Syntax analysis & Other topics in NLP [[Video](https://www.youtube.com/watch?v=DdFKFqZyv5s&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=6)]
 * Reading materials
   * Cambria, E., & White, B. (2014). Jumping NLP curves: A review of natural language processing research. IEEE Computational intelligence magazine, 9(2), 48-57. ([PDF](http://ieeexplore.ieee.org/abstract/document/6786458/))
   * Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). Natural language processing (almost) from scratch. Journal of Machine Learning Research, 12(Aug), 2493-2537. ([PDF](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf))
   * Young, T., Hazarika, D., Poria, S., & Cambria, E. (2017). Recent trends in deep learning based natural language processing. arXiv preprint arXiv:1708.02709. ([PDF](https://arxiv.org/pdf/1708.02709.pdf))
   * NLP Year in Review - 2019 ([Medium Post](https://medium.com/dair-ai/nlp-year-in-review-2019-fb8d523bcb19))
 
-## Topic 3: Neural Networks Basics
+## Topic 3: Neural Networks Basics (Optional, No Video Lectures)
 * Perception, Multi-layered Perceptron
 * Convolutional Neural Networks (CNN)
 * Recurrent Neural Networks (RNN)
 * Practical Techniques
 
 ## Topic 4: Text Representation I: Classic Methods
-* Bag of words
-* Word weighting
-* N-grams
+* Bag of words, Word weighting, N-grams [[Video](https://www.youtube.com/watch?v=DMNUVGbLp-0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=7)]
 
 ## Topic 5: Text Representation II: Distributed Representation
 * Word2Vec
