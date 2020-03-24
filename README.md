@@ -40,7 +40,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Topic 5: Text Representation II: Distributed Representation
 * Neural Network Language Model (NNLM) [[Video](https://www.youtube.com/watch?v=bvSHJG-Fz3Y&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=8)]
-* Word2Vec
+* Word2Vec [[Video](https://www.youtube.com/watch?v=s2KePv-OxZM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10&t=0s)]
 * GloVe
 * FastText, Doc2Vec, and Other Embeddings
 * Reading materials
