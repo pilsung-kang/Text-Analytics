@@ -82,6 +82,15 @@ Unstructured Data Analysis (Graduate) @Korea University
 * GPT: Generative Pre-Training of a Language Model
 * BERT: Bidirectional Encoder Representations from Transformer
 * GPT-2: Language Models are Unsupervised Multitask Learners
+* Reading Materials
+  * Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning with neural networks. In Advances in neural information processing systems (pp. 3104-3112). ([PDF](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf))
+  * Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473. ([PDF](https://arxiv.org/pdf/1409.0473.pdf))
+  * Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008). ([PDF](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf))
+  * Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K., & Zettlemoyer, L. (2018). Deep contextualized word representations. arXiv preprint arXiv:1802.05365. ([PDF](https://arxiv.org/pdf/1802.05365.pdf))
+  * Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. ([PDF](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf))
+  * Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805. ([PDF](https://arxiv.org/pdf/1810.04805.pdf))
+  * Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. OpenAI Blog, 1(8), 9. ([PDF](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf))
+  
 
 ## Topic 9: Document Classification
 * Document classification overview
