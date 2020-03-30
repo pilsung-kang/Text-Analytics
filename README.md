@@ -54,6 +54,8 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Dimensionality Reduction
 * Supervised Feature Selection
 * Reading materials
+  * Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). Indexing by latent semantic analysis. Journal of the American society for information science, 41(6), 391-407. ([PDF](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/%28SICI%291097-4571%28199009%2941%3A6%3C391%3A%3AAID-ASI1%3E3.0.CO%3B2-9))
+  * Landauer, T. K., Foltz, P. W., & Laham, D. (1998). An introduction to latent semantic analysis. Discourse processes, 25(2-3), 259-284. ([PDF](https://www.tandfonline.com/doi/pdf/10.1080/01638539809545028?needAccess=true))
   * Maaten, L. V. D., & Hinton, G. (2008). Visualizing data using t-SNE. Journal of machine learning research, 9(Nov), 2579-2605. ([PDF](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)) ([Homepage](https://lvdmaaten.github.io/tsne/))
 
 ## Topic 7: Topic Modeling as a Distributed Reprentation
