@@ -51,8 +51,8 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2016). Enriching word vectors with subword information. arXiv preprint arXiv:1607.04606. ([PDF](https://arxiv.org/pdf/1607.04606.pdf))
 
 ## Topic 6: Dimensionality Reduction
-* Dimensionality Reduction
-* Supervised Feature Selection
+* Dimensionality Reduction Overview, Supervised Feature Selection [[Video](https://www.youtube.com/watch?v=Gldr3LQvnSA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=12)]
+* Unsupervised Feature Extraction
 * Reading materials
   * Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). Indexing by latent semantic analysis. Journal of the American society for information science, 41(6), 391-407. ([PDF](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/%28SICI%291097-4571%28199009%2941%3A6%3C391%3A%3AAID-ASI1%3E3.0.CO%3B2-9))
   * Landauer, T. K., Foltz, P. W., & Laham, D. (1998). An introduction to latent semantic analysis. Discourse processes, 25(2-3), 259-284. ([PDF](https://www.tandfonline.com/doi/pdf/10.1080/01638539809545028?needAccess=true))
