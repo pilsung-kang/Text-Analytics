@@ -59,8 +59,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Maaten, L. V. D., & Hinton, G. (2008). Visualizing data using t-SNE. Journal of machine learning research, 9(Nov), 2579-2605. ([PDF](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)) ([Homepage](https://lvdmaaten.github.io/tsne/))
 
 ## Topic 7: Topic Modeling as a Distributed Reprentation
-* Topic modeling overview & Latent Semantic Analysis (LSA)
-* Probabilistic Latent Semantic Analysis: pLSA
+* Topic modeling overview & Latent Semantic Analysis (LSA), Probabilistic Latent Semantic Analysis: pLSA [[Video](https://www.youtube.com/watch?v=J1ri0EQnUOg&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=14)]
 * LDA: Document Generation Process
 * LDA Inference: Gibbs Sampling
 * LDA Evaluation
