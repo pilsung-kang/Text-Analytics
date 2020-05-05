@@ -91,7 +91,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   
 
 ## Topic 9: Document Classification
-* Document classification overview
+* Document classification overview, Vector Space Models (Naive Bayesian Classifier, k-Nearese Neighbor Classifier) [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/09%20Document%20Classification/09-1_Document%20Classification%20-%20Vector%20Space%20Models.pdf)]
 * Naive Bayesian classifier
 * RNN-based document classification
 * CNN-based document classification
