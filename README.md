@@ -91,8 +91,12 @@ Unstructured Data Analysis (Graduate) @Korea University
   
 
 ## Topic 9: Document Classification
-* Document classification overview, Vector Space Models (Naive Bayesian Classifier, k-Nearese Neighbor Classifier) [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/09%20Document%20Classification/09-1_Document%20Classification%20-%20Vector%20Space%20Models.pdf)]
-* Naive Bayesian classifier
+* Document classification overview, Vector Space Models (Naive Bayesian Classifier, k-Nearese Neighbor Classifier) [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/09%20Document%20Classification/09-1_Document%20Classification%20-%20Vector%20Space%20Models.pdf)], [[Video](https://www.youtube.com/watch?v=0Cd1bbD1CUE&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=23)]
+* (Optional) Other VSM-based classsification (Lecture videos are taken from IMEN415 (Multivariate Data Analysis for Undergraudate Students @Korea University))
+  * Logistic Regression: [[Formulation](https://www.youtube.com/watch?v=PsVyx6erzrU&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=9)], [[Learning](https://www.youtube.com/watch?v=vGMMulhLoYE&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=10)], [[Interpretation](https://www.youtube.com/watch?v=3sZx4O2aQs8&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=11)]
+  * Decision Tree: [[Recursive Partitioning and Pruning](https://www.youtube.com/watch?v=w6eCV1GzsLs&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=18)]
+  * Artificial Neural Network: [[Perceptron](https://www.youtube.com/watch?v=s0ObHKy_MYk&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=21)], [[Multi-layer Perceptron](https://www.youtube.com/watch?v=YitouyZ-S94&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=22)]
+  * Ensemble Models" [[Overview](https://www.youtube.com/watch?v=Y8xfvgKc_KM&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=24)], [[Bagging](https://www.youtube.com/watch?v=giIaZDXu2No&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=25)], [[Random Forest](https://www.youtube.com/watch?v=wB0ELX15kN8&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=26)], [[AdaBoost](https://www.youtube.com/watch?v=Y2rsmO6Nr4I&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=27)], [[Gradient Boosting Machine (GBM)](https://www.youtube.com/watch?v=1qnZ6JKZTNI&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=28)] 
 * RNN-based document classification
 * CNN-based document classification
 * Reading materials
