@@ -108,7 +108,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Luong, M. T., Pham, H., & Manning, C. D. (2015). Effective approaches to attention-based neural machine translation. arXiv preprint arXiv:1508.04025. ([PDF](https://arxiv.org/pdf/1508.04025.pdf))
 
 ## Topic 10: Sentiment Analysis
-* Architecture of sentiment analysis [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_1_Sentiment%20Analysis%20Overview.pdf)]
+* Architecture of sentiment analysis [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_1_Sentiment%20Analysis%20Overview.pdf)], [[Video](https://www.youtube.com/watch?v=5ZC37vpaU-4)]
 * Lexicon-based approach [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_2_Sentiment%20Analysis_Lexicon-based%20Approach.pdf)]
 * Machine learning-based approach [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_3_Sentiment%20Analysis_ML-based%20Approach.pdf)]
 * Reading materials
