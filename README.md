@@ -43,7 +43,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 ## Topic 5: Text Representation II: Distributed Representation
 * Neural Network Language Model (NNLM) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_NNLM.pdf)], [[Video](https://www.youtube.com/watch?v=bvSHJG-Fz3Y&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=8)]
 * Word2Vec [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_Word2Vec.pdf)], [[Video](https://www.youtube.com/watch?v=s2KePv-OxZM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10&t=0s)]
-* GloVe [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_GloVe.pdf)], [[Video](https://www.youtube.com/watch?v=JZI74rrMb_M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10)]
+* GloVe [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_GloVe.pdf)], [[Video](https://www.youtube.com/watch?v=JZI74rrMb_M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10)], [[(Optional) 발표자 조규원](https://youtu.be/8wG0sJm1EaU)]
 * FastText, Doc2Vec, and Other Embeddings [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_FastText.pdf)], [[Video](https://www.youtube.com/watch?v=oRz6llDhFW8&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=11)]
 * Reading materials
   * Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). A neural probabilistic language model. Journal of machine learning research, 3(Feb), 1137-1155. ([PDF](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf))
@@ -126,3 +126,5 @@ Unstructured Data Analysis (Graduate) @Korea University
 - Question and Answering (CS224N) [[Video, 발표자 조규원](https://youtu.be/7u6Ys7I0z2E)]
 - Squad: 100,000+ questions for machine comprehension of text [[Video, 발표자 김형석](https://youtu.be/CbY_xcBGR20)]
 - Know what you don't know: Unanswerable questions for SQuAD [[Video, 발표자 김형석](https://youtu.be/uIoXJcsPj_8)]
+- Ask Me Anything: Dynamic Memory Networks for Natural Language Processing [[Video, 발표자 김지나](https://youtu.be/8uGpr-WyWlI)]
+- _(Optional) VQA: Visual Question Answering_ [[Video, 발표자 이윤승](https://youtu.be/uY6cWyG0JRQ)]
