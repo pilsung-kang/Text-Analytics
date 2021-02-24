@@ -22,7 +22,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Text Analytics Process ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/01%20Introduction/01_Introduction%20to%20Text%20Analytics_part2.pdf)) ([Video](https://www.youtube.com/watch?v=Y0zrFVZqnl4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=3))
 
 ## Topic 2: Text Preprocessing
-* Introduction to Natural Language Processing (NLP) [[Video](https://www.youtube.com/watch?v=NLaxlUKFVw4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5&t=0s)]
+* Introduction to Natural Language Processing (NLP) ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/02%20Text%20Preprocessing/02_Text%20Preprocessing_part1.pdf)) ([Video](https://www.youtube.com/watch?v=NLaxlUKFVw4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5&t=0s))
 * Lexical analysis [[Video](https://www.youtube.com/watch?v=5gt1KvkkOlc&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5)]
 * Syntax analysis & Other topics in NLP [[Video](https://www.youtube.com/watch?v=DdFKFqZyv5s&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=6)]
 * Reading materials
