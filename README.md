@@ -13,6 +13,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * CS224n @Stanford: Natural Language Processing Deep Learning
     * Course Homepage: http://web.stanford.edu/class/cs224n/
     * Youtube Video: https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+    * DSBA Lab Seminar (2019) Playlist: https://youtube.com/playlist?list=PLetSlH8YjIfVdobI2IkAQnNTb1Bt5Ji9U
   * Deep Natural Lanugage Processing @Oxford
     * Course Homepage: https://github.com/oxford-cs-deepnlp-2017/lectures
 
@@ -125,7 +126,8 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Topic 11: Document Summarization
 - Extractive Summarization
-- _(Optional) Extractive summarization as Text Matching_ [[Video 발표자 이유경](https://youtu.be/8E2Ia4Viu94)]
+  - _(Optional) Single Document Summarization as Tree Induction_ [[Video 발표자 조규원](https://youtu.be/_yWyO9s5rBk)]
+  - _(Optional) Extractive summarization as Text Matching_ [[Video 발표자 이유경](https://youtu.be/8E2Ia4Viu94)]
 - Abstractive Summarization
 - Extractive/Abstractive Summarization
   - Text Summarization with Pretrained Encoder (BERTSum) [[Video 발표자 이정훈](https://youtu.be/PQk9kr9dGu0)]
@@ -135,7 +137,9 @@ Unstructured Data Analysis (Graduate) @Korea University
 - Squad: 100,000+ questions for machine comprehension of text [[Video, 발표자 김형석](https://youtu.be/CbY_xcBGR20)]
 - Know what you don't know: Unanswerable questions for SQuAD [[Video, 발표자 김형석](https://youtu.be/uIoXJcsPj_8)]
 - Ask Me Anything: Dynamic Memory Networks for Natural Language Processing [[Video, 발표자 김지나](https://youtu.be/8uGpr-WyWlI)]
+- _(Optional) A Regurrent BERT-based Model for Question Generation & Learning to Answer by Learning to Ask: Getting the Best of GPT-2 and BERT Worlds_ [[Video 발표자 조규원](https://youtu.be/xu6tv1aoTOY)]
 - _(Optional) VQA: Visual Question Answering_ [[Video, 발표자 이윤승](https://youtu.be/uY6cWyG0JRQ)]
+
 
 ## Topic 13: (Open) Information Extraction
 -  Open Information Extraction [[Video 발표자 노영빈](https://youtu.be/tUx3LgBhrXE)]
