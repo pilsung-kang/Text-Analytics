@@ -15,9 +15,9 @@ Unstructured Data Analysis (Graduate) @Korea University
     * Course Homepage: https://github.com/oxford-cs-deepnlp-2017/lectures
 
 ## Schedule
-## Topic 1: Introduction to Text Analytics
-* Text Analytics: Backgrounds, Applications, & Challanges, and Process ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/01%20Introduction/01_Introduction%20to%20Text%20Analytics_upload.pdf)), ([Video](https://www.youtube.com/watch?v=UInnl60pzkA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=2))
-* Text Analytics Process [[Video](https://www.youtube.com/watch?v=Y0zrFVZqnl4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=3)]
+## Topic 1: Introduction to Text Analytics ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/01%20Introduction/01_Introduction%20to%20Text%20Analytics_upload.pdf))
+* Text Analytics: Backgrounds, Applications, & Challanges, and Process ([Video](https://www.youtube.com/watch?v=UInnl60pzkA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=2))
+* Text Analytics Process ([Video](https://www.youtube.com/watch?v=Y0zrFVZqnl4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=3))
 
 ## Topic 2: Text Preprocessing
 * Introduction to Natural Language Processing (NLP) [[Video](https://www.youtube.com/watch?v=NLaxlUKFVw4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5&t=0s)]
