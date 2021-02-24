@@ -118,5 +118,11 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Hamilton, W. L., Clark, K., Leskovec, J., & Jurafsky, D. (2016, November). Inducing domain-specific sentiment lexicons from unlabeled corpora. In Proceedings of the Conference on Empirical Methods in Natural Language Processing. Conference on Empirical Methods in Natural Language Processing (Vol. 2016, p. 595). NIH Public Access. ([PDF](https://nlp.stanford.edu/pubs/hamilton2016inducing.pdf))
   * Zhang, L., Wang, S., & Liu, B. (2018). Deep learning for sentiment analysis: A survey. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 8(4), e1253. ([PDF](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf))
 
+## Topic 11: Document Summarization
+- Extractive Summarization
+- Abstractive Summarization
 
-
+## Topic 12: Question and Answering
+- Question and Answering (CS224N) (발표자: 조규원) [[Video](https://youtu.be/7u6Ys7I0z2E)]
+- Squad: 100,000+ questions for machine comprehension of text (발표자: 김형석) [[Video](https://youtu.be/CbY_xcBGR20)]
+- Know what you don't know: Unanswerable questions for SQuAD (발표자: 김형석) [[Video](https://youtu.be/uIoXJcsPj_8)]
