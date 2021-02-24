@@ -16,6 +16,7 @@ Unstructured Data Analysis (Graduate) @Korea University
     * DSBA Lab Seminar (2019) Playlist: https://youtube.com/playlist?list=PLetSlH8YjIfVdobI2IkAQnNTb1Bt5Ji9U
   * Deep Natural Lanugage Processing @Oxford
     * Course Homepage: https://github.com/oxford-cs-deepnlp-2017/lectures
+    * DSBA Lab Seminar (2017) Playlist: https://youtube.com/playlist?list=PLetSlH8YjIfVK2_VTNNHnei0PluGv4Vfn
 
 ## Schedule
 ## Topic 1: Introduction to Text Analytics
