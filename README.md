@@ -44,7 +44,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Neural Network Language Model (NNLM) ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_NNLM.pdf)) ([Video](https://www.youtube.com/watch?v=bvSHJG-Fz3Y&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=8))
 * Word2Vec ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_Word2Vec.pdf)) ([Video](https://www.youtube.com/watch?v=s2KePv-OxZM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10&t=0s))
 * GloVe ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_GloVe.pdf)) ([Video](https://www.youtube.com/watch?v=JZI74rrMb_M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10))
-* FastText, Doc2Vec, and Other Embeddings [[Video](https://www.youtube.com/watch?v=oRz6llDhFW8&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=11)]
+* FastText, Doc2Vec, and Other Embeddings ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_FastText.pdf)) ([Video](https://www.youtube.com/watch?v=oRz6llDhFW8&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=11))
 * Reading materials
   * Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). A neural probabilistic language model. Journal of machine learning research, 3(Feb), 1137-1155. ([PDF](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf))
   * Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781. ([PDF](https://arxiv.org/pdf/1301.3781.pdf))
@@ -53,17 +53,17 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2016). Enriching word vectors with subword information. arXiv preprint arXiv:1607.04606. ([PDF](https://arxiv.org/pdf/1607.04606.pdf))
 
 ## Topic 6: Dimensionality Reduction
-* Dimensionality Reduction Overview, Supervised Feature Selection [[Video](https://www.youtube.com/watch?v=Gldr3LQvnSA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=12)]
-* Unsupervised Feature Extraction [[Video](https://www.youtube.com/watch?v=XYCVzp0NGFc&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=13)]
+* Dimensionality Reduction Overview, Supervised Feature Selection ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/06%20Dimensionality%20Reduction/06_Dimensionality%20Reduction_Feature%20Selection.pdf)) ([Video](https://www.youtube.com/watch?v=Gldr3LQvnSA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=12))
+* Unsupervised Feature Extraction ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/06%20Dimensionality%20Reduction/06_Dimensionality%20Reduction_Feature%20Extraction.pdf)) ([Video](https://www.youtube.com/watch?v=XYCVzp0NGFc&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=13))
 * Reading materials
   * Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). Indexing by latent semantic analysis. Journal of the American society for information science, 41(6), 391-407. ([PDF](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/%28SICI%291097-4571%28199009%2941%3A6%3C391%3A%3AAID-ASI1%3E3.0.CO%3B2-9))
   * Landauer, T. K., Foltz, P. W., & Laham, D. (1998). An introduction to latent semantic analysis. Discourse processes, 25(2-3), 259-284. ([PDF](https://www.tandfonline.com/doi/pdf/10.1080/01638539809545028?needAccess=true))
   * Maaten, L. V. D., & Hinton, G. (2008). Visualizing data using t-SNE. Journal of machine learning research, 9(Nov), 2579-2605. ([PDF](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)) ([Homepage](https://lvdmaaten.github.io/tsne/))
 
 ## Topic 7: Topic Modeling as a Distributed Reprentation
-* Topic modeling overview & Latent Semantic Analysis (LSA), Probabilistic Latent Semantic Analysis: pLSA [[Video](https://www.youtube.com/watch?v=J1ri0EQnUOg&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=14)]
-* LDA: Document Generation Process [[Video](https://www.youtube.com/watch?v=WR2On5QAqJQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=15)]
-* LDA Inference: Collapsed Gibbs Sampling, LDA Evaluation [[Video](https://www.youtube.com/watch?v=iwMSCsiL6wQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=16)]
+* Topic modeling overview & Latent Semantic Analysis (LSA), Probabilistic Latent Semantic Analysis: pLSA ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LSA_pLSA.pdf)) ([Video](https://www.youtube.com/watch?v=J1ri0EQnUOg&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=14))
+* LDA: Document Generation Process ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Generation.pdf)) ([Video](https://www.youtube.com/watch?v=WR2On5QAqJQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=15))
+* LDA Inference: Collapsed Gibbs Sampling, LDA Evaluation ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)) ([Video](https://www.youtube.com/watch?v=iwMSCsiL6wQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=16))
 * Reading Materials
   * Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). Indexing by latent semantic analysis. Journal of the American society for information science, 41(6), 391. ([PDF](http://lsa.colorado.edu/papers/JASIS.lsi.90.pdf))
   * Dumais, S. T. (2004). Latent semantic analysis. Annual review of information science and technology, 38(1), 188-230.
