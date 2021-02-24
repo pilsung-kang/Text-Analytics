@@ -70,7 +70,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Hofmann, T. (1999, July). Probabilistic latent semantic analysis. In Proceedings of the Fifteenth conference on Uncertainty in artificial intelligence (pp. 289-296). Morgan Kaufmann Publishers Inc. ([PDF](http://www.iro.umontreal.ca/~nie/IFT6255/Hofmann-UAI99.pdf))
   * Hofmann, T. (2017, August). Probabilistic latent semantic indexing. In ACM SIGIR Forum (Vol. 51, No. 2, pp. 211-218). ACM.
   * Blei, D. M. (2012). Probabilistic topic models. Communications of the ACM, 55(4), 77-84. ([PDF](http://delivery.acm.org/10.1145/2140000/2133826/p77-blei.pdf?ip=175.114.11.68&id=2133826&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1524148444_1a7687d674528eeabc9a97afa2db5a29))
-  * Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent dirichlet allocation. Journal of machine Learning research, 3(Jan), 993-1022. ([PDF](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)) [[(Optional 발표자 윤훈상)](https://youtu.be/4AGjlcEQ6I8)]
+  * Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent dirichlet allocation. Journal of machine Learning research, 3(Jan), 993-1022. ([PDF](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)) [[(Optional) 발표자 윤훈상)](https://youtu.be/4AGjlcEQ6I8)]
 * Recommended video lectures
   * LDA by D. Blei ([Lecture Video](http://videolectures.net/mlss09uk_blei_tm/))
   * Variational Inference for LDA by D. Blei ([Lecture Video](https://www.youtube.com/watch?v=Dv86zdWjJKQ&t=113s))
