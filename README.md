@@ -77,7 +77,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Topic 8: Language Modeling & Pre-trained Models
 * Sequence-to-Sequence Learning [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-1_Seq2Seq%20Learning.pdf)], [[Video](https://www.youtube.com/watch?v=0lgWzluKq1k&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=17)]
-* Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-2_Transformer.pdf)], [[Video](https://www.youtube.com/watch?v=Yk1tV_cXMMU&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=18)], [[(Optional) Video 발표자:김동화](https://youtu.be/xhY7m8QVKjo)]
+* Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-2_Transformer.pdf)], [[Video](https://www.youtube.com/watch?v=Yk1tV_cXMMU&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=18)], [[(Optional) Video, 발표자 김동화](https://youtu.be/xhY7m8QVKjo)]
 * ELMo: Embeddings from Language Models [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-3_ELMo.pdf)], [[Video](https://www.youtube.com/watch?v=zV8kIUwH32M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=19)]
 * GPT: Generative Pre-Training of a Language Model [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-4_GPT.pdf)], [[Video](https://www.youtube.com/watch?v=o_Wl29aW5XM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=20)]
 * BERT: Bidirectional Encoder Representations from Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-5_BERT.pdf)], [[Video](https://www.youtube.com/watch?v=IwtexRHoWG0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=21)]
@@ -123,6 +123,6 @@ Unstructured Data Analysis (Graduate) @Korea University
 - Abstractive Summarization
 
 ## Topic 12: Question and Answering
-- Question and Answering (CS224N) (발표자: 조규원) [[Video](https://youtu.be/7u6Ys7I0z2E)]
-- Squad: 100,000+ questions for machine comprehension of text (발표자: 김형석) [[Video](https://youtu.be/CbY_xcBGR20)]
-- Know what you don't know: Unanswerable questions for SQuAD (발표자: 김형석) [[Video](https://youtu.be/uIoXJcsPj_8)]
+- Question and Answering (CS224N) [[Video, 발표자 조규원](https://youtu.be/7u6Ys7I0z2E)]
+- Squad: 100,000+ questions for machine comprehension of text [[Video, 발표자 김형석](https://youtu.be/CbY_xcBGR20)]
+- Know what you don't know: Unanswerable questions for SQuAD [[Video, 발표자 ](https://youtu.be/uIoXJcsPj_8)]
