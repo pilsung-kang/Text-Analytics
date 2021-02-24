@@ -18,13 +18,13 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Schedule
 ## Topic 1: Introduction to Text Analytics
-* Text Analytics: Backgrounds, Applications, & Challanges, and Process ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/01%20Introduction/01_Introduction%20to%20Text%20Analytics_part1.pdf)) ([Video](https://www.youtube.com/watch?v=UInnl60pzkA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=2))
-* Text Analytics Process ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/01%20Introduction/01_Introduction%20to%20Text%20Analytics_part2.pdf)) ([Video](https://www.youtube.com/watch?v=Y0zrFVZqnl4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=3))
+* Text Analytics: Backgrounds, Applications, & Challanges, and Process [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/01%20Introduction/01_Introduction%20to%20Text%20Analytics_part1.pdf)], [[Video](https://www.youtube.com/watch?v=UInnl60pzkA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=2)]
+* Text Analytics Process [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/01%20Introduction/01_Introduction%20to%20Text%20Analytics_part2.pdf)], [[Video](https://www.youtube.com/watch?v=Y0zrFVZqnl4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=3)]
 
 ## Topic 2: Text Preprocessing
-* Introduction to Natural Language Processing (NLP) ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/02%20Text%20Preprocessing/02_Text%20Preprocessing_part1.pdf)) ([Video](https://www.youtube.com/watch?v=NLaxlUKFVw4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5&t=0s))
-* Lexical analysis ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/02%20Text%20Preprocessing/02_Text%20Preprocessing_part2.pdf)) ([Video](https://www.youtube.com/watch?v=5gt1KvkkOlc&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5))
-* Syntax analysis & Other topics in NLP ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/02%20Text%20Preprocessing/02_Text%20Preprocessing_part3.pdf)) ([Video](https://www.youtube.com/watch?v=DdFKFqZyv5s&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=6))
+* Introduction to Natural Language Processing (NLP) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/02%20Text%20Preprocessing/02_Text%20Preprocessing_part1.pdf)], [[Video](https://www.youtube.com/watch?v=NLaxlUKFVw4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5&t=0s)]
+* Lexical analysis [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/02%20Text%20Preprocessing/02_Text%20Preprocessing_part2.pdf)], [[Video](https://www.youtube.com/watch?v=5gt1KvkkOlc&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5)]
+* Syntax analysis & Other topics in NLP [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/02%20Text%20Preprocessing/02_Text%20Preprocessing_part3.pdf)], [[Video](https://www.youtube.com/watch?v=DdFKFqZyv5s&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=6)]
 * Reading materials
   * Cambria, E., & White, B. (2014). Jumping NLP curves: A review of natural language processing research. IEEE Computational intelligence magazine, 9(2), 48-57. ([PDF](http://ieeexplore.ieee.org/abstract/document/6786458/))
   * Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). Natural language processing (almost) from scratch. Journal of Machine Learning Research, 12(Aug), 2493-2537. ([PDF](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf))
@@ -38,13 +38,13 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Practical Techniques
 
 ## Topic 4: Text Representation I: Classic Methods
-* Bag of words, Word weighting, N-grams ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/04%20Text%20Representation%20I%20-%20Classic%20Methods/04_Text%20Representation%20I_Classic%20Methods.pdf)) ([Video](https://www.youtube.com/watch?v=DMNUVGbLp-0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=7))
+* Bag of words, Word weighting, N-grams [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/04%20Text%20Representation%20I%20-%20Classic%20Methods/04_Text%20Representation%20I_Classic%20Methods.pdf)], [[Video](https://www.youtube.com/watch?v=DMNUVGbLp-0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=7)]
 
 ## Topic 5: Text Representation II: Distributed Representation
-* Neural Network Language Model (NNLM) ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_NNLM.pdf)) ([Video](https://www.youtube.com/watch?v=bvSHJG-Fz3Y&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=8))
-* Word2Vec ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_Word2Vec.pdf)) ([Video](https://www.youtube.com/watch?v=s2KePv-OxZM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10&t=0s))
-* GloVe ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_GloVe.pdf)) ([Video](https://www.youtube.com/watch?v=JZI74rrMb_M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10))
-* FastText, Doc2Vec, and Other Embeddings ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_FastText.pdf)) ([Video](https://www.youtube.com/watch?v=oRz6llDhFW8&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=11))
+* Neural Network Language Model (NNLM) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_NNLM.pdf)], [[Video](https://www.youtube.com/watch?v=bvSHJG-Fz3Y&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=8)]
+* Word2Vec [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_Word2Vec.pdf)], [[Video](https://www.youtube.com/watch?v=s2KePv-OxZM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10&t=0s)]
+* GloVe [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_GloVe.pdf)], [[Video](https://www.youtube.com/watch?v=JZI74rrMb_M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10)]
+* FastText, Doc2Vec, and Other Embeddings [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_FastText.pdf)], [[Video](https://www.youtube.com/watch?v=oRz6llDhFW8&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=11)]
 * Reading materials
   * Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). A neural probabilistic language model. Journal of machine learning research, 3(Feb), 1137-1155. ([PDF](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf))
   * Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781. ([PDF](https://arxiv.org/pdf/1301.3781.pdf))
@@ -53,17 +53,17 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2016). Enriching word vectors with subword information. arXiv preprint arXiv:1607.04606. ([PDF](https://arxiv.org/pdf/1607.04606.pdf))
 
 ## Topic 6: Dimensionality Reduction
-* Dimensionality Reduction Overview, Supervised Feature Selection ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/06%20Dimensionality%20Reduction/06_Dimensionality%20Reduction_Feature%20Selection.pdf)) ([Video](https://www.youtube.com/watch?v=Gldr3LQvnSA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=12))
-* Unsupervised Feature Extraction ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/06%20Dimensionality%20Reduction/06_Dimensionality%20Reduction_Feature%20Extraction.pdf)) ([Video](https://www.youtube.com/watch?v=XYCVzp0NGFc&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=13))
+* Dimensionality Reduction Overview, Supervised Feature Selection [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/06%20Dimensionality%20Reduction/06_Dimensionality%20Reduction_Feature%20Selection.pdf)], [[Video](https://www.youtube.com/watch?v=Gldr3LQvnSA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=12)]
+* Unsupervised Feature Extraction [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/06%20Dimensionality%20Reduction/06_Dimensionality%20Reduction_Feature%20Extraction.pdf)], [[Video](https://www.youtube.com/watch?v=XYCVzp0NGFc&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=13)]
 * Reading materials
   * Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). Indexing by latent semantic analysis. Journal of the American society for information science, 41(6), 391-407. ([PDF](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/%28SICI%291097-4571%28199009%2941%3A6%3C391%3A%3AAID-ASI1%3E3.0.CO%3B2-9))
   * Landauer, T. K., Foltz, P. W., & Laham, D. (1998). An introduction to latent semantic analysis. Discourse processes, 25(2-3), 259-284. ([PDF](https://www.tandfonline.com/doi/pdf/10.1080/01638539809545028?needAccess=true))
   * Maaten, L. V. D., & Hinton, G. (2008). Visualizing data using t-SNE. Journal of machine learning research, 9(Nov), 2579-2605. ([PDF](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)) ([Homepage](https://lvdmaaten.github.io/tsne/))
 
 ## Topic 7: Topic Modeling as a Distributed Reprentation
-* Topic modeling overview & Latent Semantic Analysis (LSA), Probabilistic Latent Semantic Analysis: pLSA ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LSA_pLSA.pdf)) ([Video](https://www.youtube.com/watch?v=J1ri0EQnUOg&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=14))
-* LDA: Document Generation Process ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Generation.pdf)) ([Video](https://www.youtube.com/watch?v=WR2On5QAqJQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=15))
-* LDA Inference: Collapsed Gibbs Sampling, LDA Evaluation ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)) ([Video](https://www.youtube.com/watch?v=iwMSCsiL6wQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=16))
+* Topic modeling overview & Latent Semantic Analysis (LSA), Probabilistic Latent Semantic Analysis: pLSA [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LSA_pLSA.pdf)], [[Video](https://www.youtube.com/watch?v=J1ri0EQnUOg&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=14)]
+* LDA: Document Generation Process [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Generation.pdf)], [[Video](https://www.youtube.com/watch?v=WR2On5QAqJQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=15)]
+* LDA Inference: Collapsed Gibbs Sampling, LDA Evaluation [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)], [[Video](https://www.youtube.com/watch?v=iwMSCsiL6wQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=16)]
 * Reading Materials
   * Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). Indexing by latent semantic analysis. Journal of the American society for information science, 41(6), 391. ([PDF](http://lsa.colorado.edu/papers/JASIS.lsi.90.pdf))
   * Dumais, S. T. (2004). Latent semantic analysis. Annual review of information science and technology, 38(1), 188-230.
@@ -76,7 +76,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Variational Inference for LDA by D. Blei ([Lecture Video](https://www.youtube.com/watch?v=Dv86zdWjJKQ&t=113s))
 
 ## Topic 8: Language Modeling & Pre-trained Models
-* Sequence-to-Sequence Learning ([Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-1_Seq2Seq%20Learning.pdf)), ([Video](https://www.youtube.com/watch?v=0lgWzluKq1k&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=17)]
+* Sequence-to-Sequence Learning [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-1_Seq2Seq%20Learning.pdf)], [[Video](https://www.youtube.com/watch?v=0lgWzluKq1k&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=17)]
 * Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-2_Transformer.pdf)], [[Video](https://www.youtube.com/watch?v=Yk1tV_cXMMU&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=18))
 * ELMo: Embeddings from Language Models ([Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-3_ELMo.pdf)), ([Video](https://www.youtube.com/watch?v=zV8kIUwH32M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=19))
 * GPT: Generative Pre-Training of a Language Model ([Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-4_GPT.pdf)), ([Video](https://www.youtube.com/watch?v=o_Wl29aW5XM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=20))
