@@ -45,10 +45,10 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Topic 5: Text Representation II: Distributed Representation
 * Neural Network Language Model (NNLM) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_NNLM.pdf)], [[Video](https://www.youtube.com/watch?v=bvSHJG-Fz3Y&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=8)]
-* Word2Vec [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_Word2Vec.pdf)], [[Video](https://www.youtube.com/watch?v=s2KePv-OxZM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10&t=0s)], [[(Optional) 발표자 김지나](https://youtu.be/sidPSG-EVDo)]
-* GloVe [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_GloVe.pdf)], [[Video](https://www.youtube.com/watch?v=JZI74rrMb_M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10)], [[(Optional) 발표자 조규원](https://youtu.be/8wG0sJm1EaU)]
+* Word2Vec [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_Word2Vec.pdf)], [[Video](https://www.youtube.com/watch?v=s2KePv-OxZM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10&t=0s)], [[Optional Video (발표자: 김지나)](https://youtu.be/sidPSG-EVDo)]
+* GloVe [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_GloVe.pdf)], [[Video](https://www.youtube.com/watch?v=JZI74rrMb_M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10)], [[Optional Video (발표자 조규원)](https://youtu.be/8wG0sJm1EaU)]
 * FastText, Doc2Vec, and Other Embeddings [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_FastText.pdf)], [[Video](https://www.youtube.com/watch?v=oRz6llDhFW8&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=11)]
-* _(Optional) Analogies Explained: Towards Understanding Word Embeddings_ [[Video 발표자 김명섭](https://youtu.be/yveGzB3dB3U)]
+* _(Optional) Analogies Explained: Towards Understanding Word Embeddings_ [[Video (발표자: 김명섭)](https://youtu.be/yveGzB3dB3U)]
 * Reading materials
   * Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). A neural probabilistic language model. Journal of machine learning research, 3(Feb), 1137-1155. ([PDF](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf))
   * Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781. ([PDF](https://arxiv.org/pdf/1301.3781.pdf))
@@ -74,23 +74,24 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Hofmann, T. (1999, July). Probabilistic latent semantic analysis. In Proceedings of the Fifteenth conference on Uncertainty in artificial intelligence (pp. 289-296). Morgan Kaufmann Publishers Inc. ([PDF](http://www.iro.umontreal.ca/~nie/IFT6255/Hofmann-UAI99.pdf))
   * Hofmann, T. (2017, August). Probabilistic latent semantic indexing. In ACM SIGIR Forum (Vol. 51, No. 2, pp. 211-218). ACM.
   * Blei, D. M. (2012). Probabilistic topic models. Communications of the ACM, 55(4), 77-84. ([PDF](http://delivery.acm.org/10.1145/2140000/2133826/p77-blei.pdf?ip=175.114.11.68&id=2133826&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1524148444_1a7687d674528eeabc9a97afa2db5a29))
-  * Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent dirichlet allocation. Journal of machine Learning research, 3(Jan), 993-1022. ([PDF](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)) [[(Optional) 발표자 윤훈상)](https://youtu.be/4AGjlcEQ6I8)]
+  * Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent dirichlet allocation. Journal of machine Learning research, 3(Jan), 993-1022. ([PDF](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)) [[Optional Video (발표자: 윤훈상)](https://youtu.be/4AGjlcEQ6I8)]
 * Recommended video lectures
   * LDA by D. Blei ([Lecture Video](http://videolectures.net/mlss09uk_blei_tm/))
   * Variational Inference for LDA by D. Blei ([Lecture Video](https://www.youtube.com/watch?v=Dv86zdWjJKQ&t=113s))
 
 ## Topic 8: Language Modeling & Pre-trained Models
 - Sequence-to-Sequence Learning [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-1_Seq2Seq%20Learning.pdf)], [[Video](https://www.youtube.com/watch?v=0lgWzluKq1k&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=17)]
-- Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-2_Transformer.pdf)], [[Video](https://www.youtube.com/watch?v=Yk1tV_cXMMU&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=18)], [[(Optional) Video, 발표자 김동화](https://youtu.be/xhY7m8QVKjo)]
-  - _(Optional) Reformer: The Efficient Transformer_ [[Video 발표자 김정희](https://youtu.be/6ognBL6DEYM)]
-  - _(Optional) Multimodal Transformer for Unaligned Multimodal Language Sequences_ [[Video 발표자 노영빈](https://youtu.be/JTbX4OyUF-c)]
+- Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-2_Transformer.pdf)], [[Video](https://www.youtube.com/watch?v=Yk1tV_cXMMU&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=18)], [[Optional Video (발표자: 김동화)](https://youtu.be/xhY7m8QVKjo)]
+  - _(Optional) Reformer: The Efficient Transformer_ [[Video (발표자: 김정희)](https://youtu.be/6ognBL6DEYM)]
+  - _(Optional) Multimodal Transformer for Unaligned Multimodal Language Sequences_ [[Video (발표자: 노영빈)](https://youtu.be/JTbX4OyUF-c)]
 - ELMo: Embeddings from Language Models [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-3_ELMo.pdf)], [[Video](https://www.youtube.com/watch?v=zV8kIUwH32M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=19)]
 - GPT: Generative Pre-Training of a Language Model [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-4_GPT.pdf)], [[Video](https://www.youtube.com/watch?v=o_Wl29aW5XM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=20)]
 - BERT: Bidirectional Encoder Representations from Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-5_BERT.pdf)], [[Video](https://www.youtube.com/watch?v=IwtexRHoWG0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=21)]
-  - _(Optional) Semantics-aware BERT for Language Understanding_ [[Video 발표자 김명섭](https://youtu.be/vFXGvGMKesM)]
+  - _(Optional) Semantics-aware BERT for Language Understanding_ [[Video (발표자: 김명섭)](https://youtu.be/vFXGvGMKesM)]
 - GPT-2: Language Models are Unsupervised Multitask Learners [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)], [[Video](https://youtu.be/8hd2Q-3-BsQ)]
-- _(Optional) How Contextual are Contextualized Word Representations? Comparing the Geoetry of BERT, ELMo, and GPT-2 Embeddings_ [[Video, 발표자 이유경](https://youtu.be/9roNxTSIHus)]
-- _(Optional) Syntax and Semantics in Language Model Representation_ [[Video 발표자 김명섭](https://youtu.be/VAzpZh01g58)]
+- Transformer to T5 (XLNet, RoBERTa, MASS, BART, MT-DNN,T5) [[Video (발표자: 이유경)](https://youtu.be/v7diENO2mEA)]
+- _(Optional) How Contextual are Contextualized Word Representations? Comparing the Geoetry of BERT, ELMo, and GPT-2 Embeddings_ [[Video (발표자: 이유경)](https://youtu.be/d05ype2cVQc)]
+- _(Optional) Syntax and Semantics in Language Model Representation_ [[Video (발표자: 김명섭)](https://youtu.be/VAzpZh01g58)]
 - Reading Materials
 - Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning with neural networks. In Advances in neural information processing systems (pp. 3104-3112). ([PDF](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf))
   - Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473. ([PDF](https://arxiv.org/pdf/1409.0473.pdf))
@@ -128,20 +129,20 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Topic 11: Document Summarization
 - Extractive Summarization
-  - _(Optional) Single Document Summarization as Tree Induction_ [[Video 발표자 조규원](https://youtu.be/_yWyO9s5rBk)]
-  - _(Optional) Extractive summarization as Text Matching_ [[Video 발표자 이유경](https://youtu.be/8E2Ia4Viu94)]
+  - _(Optional) Single Document Summarization as Tree Induction_ [[Video (발표자: 최종현)](https://youtu.be/_yWyO9s5rBk)]
+  - _(Optional) Extractive summarization as Text Matching_ [[Video (발표자: 이유경)](https://youtu.be/8E2Ia4Viu94)]
 - Abstractive Summarization
 - Extractive/Abstractive Summarization
-  - Text Summarization with Pretrained Encoder (BERTSum) [[Video 발표자 이정훈](https://youtu.be/PQk9kr9dGu0)]
+  - Text Summarization with Pretrained Encoder (BERTSum) [[Video (발표자: 이정훈)](https://youtu.be/PQk9kr9dGu0)]
 
 ## Topic 12: Question and Answering
-- Question and Answering (CS224N) [[Video, 발표자 조규원](https://youtu.be/7u6Ys7I0z2E)]
-- Squad: 100,000+ questions for machine comprehension of text [[Video, 발표자 김형석](https://youtu.be/CbY_xcBGR20)]
-- Know what you don't know: Unanswerable questions for SQuAD [[Video, 발표자 김형석](https://youtu.be/uIoXJcsPj_8)]
-- Ask Me Anything: Dynamic Memory Networks for Natural Language Processing [[Video, 발표자 김지나](https://youtu.be/8uGpr-WyWlI)]
-- _(Optional) A Regurrent BERT-based Model for Question Generation & Learning to Answer by Learning to Ask: Getting the Best of GPT-2 and BERT Worlds_ [[Video 발표자 조규원](https://youtu.be/xu6tv1aoTOY)]
-- _(Optional) VQA: Visual Question Answering_ [[Video, 발표자 이윤승](https://youtu.be/uY6cWyG0JRQ)]
+- Question and Answering (CS224N) [[Video (발표자: 조규원)](https://youtu.be/7u6Ys7I0z2E)]
+- Squad: 100,000+ questions for machine comprehension of text [[Video (발표자: 김형석)](https://youtu.be/CbY_xcBGR20)]
+- Know what you don't know: Unanswerable questions for SQuAD [[Video (발표자: 김형석)](https://youtu.be/uIoXJcsPj_8)]
+- Ask Me Anything: Dynamic Memory Networks for Natural Language Processing [[Video (발표자: 김지나)](https://youtu.be/8uGpr-WyWlI)]
+- _(Optional) A Regurrent BERT-based Model for Question Generation & Learning to Answer by Learning to Ask: Getting the Best of GPT-2 and BERT Worlds_ [[Video (발표자: 조규원)](https://youtu.be/xu6tv1aoTOY)]
+- _(Optional) VQA: Visual Question Answering_ [[Video (발표자: 이윤승)](https://youtu.be/uY6cWyG0JRQ)]
 
 
 ## Topic 13: (Open) Information Extraction
--  Open Information Extraction [[Video 발표자 노영빈](https://youtu.be/tUx3LgBhrXE)]
+-  Open Information Extraction [[Video (발표자: 노영빈)](https://youtu.be/tUx3LgBhrXE)]
