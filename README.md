@@ -38,7 +38,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Practical Techniques
 
 ## Topic 4: Text Representation I: Classic Methods
-* Bag of words, Word weighting, N-grams [[Video](https://www.youtube.com/watch?v=DMNUVGbLp-0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=7)]
+* Bag of words, Word weighting, N-grams ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/04%20Text%20Representation%20I%20-%20Classic%20Methods/04_Text%20Representation%20I_Classic%20Methods.pdf) ([Video](https://www.youtube.com/watch?v=DMNUVGbLp-0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=7))
 
 ## Topic 5: Text Representation II: Distributed Representation
 * Neural Network Language Model (NNLM) [[Video](https://www.youtube.com/watch?v=bvSHJG-Fz3Y&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=8)]
