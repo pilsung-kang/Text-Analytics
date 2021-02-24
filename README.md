@@ -125,4 +125,4 @@ Unstructured Data Analysis (Graduate) @Korea University
 ## Topic 12: Question and Answering
 - Question and Answering (CS224N) [[Video, 발표자 조규원](https://youtu.be/7u6Ys7I0z2E)]
 - Squad: 100,000+ questions for machine comprehension of text [[Video, 발표자 김형석](https://youtu.be/CbY_xcBGR20)]
-- Know what you don't know: Unanswerable questions for SQuAD [[Video, 발표자 ](https://youtu.be/uIoXJcsPj_8)]
+- Know what you don't know: Unanswerable questions for SQuAD [[Video, 발표자 김형석](https://youtu.be/uIoXJcsPj_8)]
