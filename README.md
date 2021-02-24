@@ -3,8 +3,8 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Notice
 - **Syllabus** ([download](https://github.com/pilsung-kang/Text-Analytics/blob/master/2021_Spring_Unstructured%20Data%20Analysis.pdf))
-- **Term Project Presentations and Youtube summary (2020 Spring)** ([link](https://docs.google.com/spreadsheets/d/118AMJWTO90ecanvUadqqEOIHj9bVCNlcMHZkPOjBpnc/edit?usp=sharing))
 - **Term Project Presentations and Youtube summary (2021 Spring)** ([link](https://docs.google.com/spreadsheets/d/1UCu8uo4M728B8BMf9wyuyJ-4GTmeHCZM8a9LkOvPG9g/edit?usp=sharing))
+  - Term Project Presentations and Youtube summary (2020 Spring) ([link](https://docs.google.com/spreadsheets/d/118AMJWTO90ecanvUadqqEOIHj9bVCNlcMHZkPOjBpnc/edit?usp=sharing)) 
  
 ## Recommended courses
   * CS224d @Stanford: Deep Learning for Natural Language Processing
