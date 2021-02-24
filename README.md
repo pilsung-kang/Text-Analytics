@@ -82,6 +82,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * GPT: Generative Pre-Training of a Language Model [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-4_GPT.pdf)], [[Video](https://www.youtube.com/watch?v=o_Wl29aW5XM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=20)]
 * BERT: Bidirectional Encoder Representations from Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-5_BERT.pdf)], [[Video](https://www.youtube.com/watch?v=IwtexRHoWG0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=21)]
 * GPT-2: Language Models are Unsupervised Multitask Learners [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)], [[Video](https://youtu.be/8hd2Q-3-BsQ)]
+* (Optional) How Contextual are Contextualized Word Representations? Comparing the Geoetry of BERT, ELMo, and GPT-2 Embeddings [[Video, 발표자 이유경](https://youtu.be/9roNxTSIHus)]
 * Reading Materials
   * Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning with neural networks. In Advances in neural information processing systems (pp. 3104-3112). ([PDF](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf))
   * Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473. ([PDF](https://arxiv.org/pdf/1409.0473.pdf))
