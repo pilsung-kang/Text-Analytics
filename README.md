@@ -77,25 +77,25 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Variational Inference for LDA by D. Blei ([Lecture Video](https://www.youtube.com/watch?v=Dv86zdWjJKQ&t=113s))
 
 ## Topic 8: Language Modeling & Pre-trained Models
-* Sequence-to-Sequence Learning [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-1_Seq2Seq%20Learning.pdf)], [[Video](https://www.youtube.com/watch?v=0lgWzluKq1k&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=17)]
-* Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-2_Transformer.pdf)], [[Video](https://www.youtube.com/watch?v=Yk1tV_cXMMU&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=18)], [[(Optional) Video, 발표자 김동화](https://youtu.be/xhY7m8QVKjo)]
+- Sequence-to-Sequence Learning [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-1_Seq2Seq%20Learning.pdf)], [[Video](https://www.youtube.com/watch?v=0lgWzluKq1k&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=17)]
+- Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-2_Transformer.pdf)], [[Video](https://www.youtube.com/watch?v=Yk1tV_cXMMU&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=18)], [[(Optional) Video, 발표자 김동화](https://youtu.be/xhY7m8QVKjo)]
   - _(Optional) Reformer: The Efficient Transformer_ [[Video 발표자 김정희](https://youtu.be/6ognBL6DEYM)]
   - _(Optional) Multimodal Transformer for Unaligned Multimodal Language Sequences_ [[Video 발표자 노영빈](https://youtu.be/JTbX4OyUF-c)]
-* ELMo: Embeddings from Language Models [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-3_ELMo.pdf)], [[Video](https://www.youtube.com/watch?v=zV8kIUwH32M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=19)]
-* GPT: Generative Pre-Training of a Language Model [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-4_GPT.pdf)], [[Video](https://www.youtube.com/watch?v=o_Wl29aW5XM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=20)]
-* BERT: Bidirectional Encoder Representations from Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-5_BERT.pdf)], [[Video](https://www.youtube.com/watch?v=IwtexRHoWG0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=21)]
-  -_(Optional) Semantics-aware BERT for Language Understanding_ [[Video 발표자 김명섭](https://youtu.be/vFXGvGMKesM)]
-* GPT-2: Language Models are Unsupervised Multitask Learners [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)], [[Video](https://youtu.be/8hd2Q-3-BsQ)]
-* _(Optional) How Contextual are Contextualized Word Representations? Comparing the Geoetry of BERT, ELMo, and GPT-2 Embeddings_ [[Video, 발표자 이유경](https://youtu.be/9roNxTSIHus)]
-* _(Optional) Syntax and Semantics in Language Model Representation_ [[Video 발표자 김명섭](https://youtu.be/VAzpZh01g58)]
-* Reading Materials
-* Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning with neural networks. In Advances in neural information processing systems (pp. 3104-3112). ([PDF](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf))
-  * Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473. ([PDF](https://arxiv.org/pdf/1409.0473.pdf))
-  * Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008). ([PDF](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf))
-  * Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K., & Zettlemoyer, L. (2018). Deep contextualized word representations. arXiv preprint arXiv:1802.05365. ([PDF](https://arxiv.org/pdf/1802.05365.pdf))
-  * Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. ([PDF](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf))
-  * Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805. ([PDF](https://arxiv.org/pdf/1810.04805.pdf))
-  * Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. OpenAI Blog, 1(8), 9. ([PDF](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf))
+- ELMo: Embeddings from Language Models [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-3_ELMo.pdf)], [[Video](https://www.youtube.com/watch?v=zV8kIUwH32M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=19)]
+- GPT: Generative Pre-Training of a Language Model [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-4_GPT.pdf)], [[Video](https://www.youtube.com/watch?v=o_Wl29aW5XM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=20)]
+- BERT: Bidirectional Encoder Representations from Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-5_BERT.pdf)], [[Video](https://www.youtube.com/watch?v=IwtexRHoWG0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=21)]
+  - _(Optional) Semantics-aware BERT for Language Understanding_ [[Video 발표자 김명섭](https://youtu.be/vFXGvGMKesM)]
+- GPT-2: Language Models are Unsupervised Multitask Learners [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)], [[Video](https://youtu.be/8hd2Q-3-BsQ)]
+- _(Optional) How Contextual are Contextualized Word Representations? Comparing the Geoetry of BERT, ELMo, and GPT-2 Embeddings_ [[Video, 발표자 이유경](https://youtu.be/9roNxTSIHus)]
+- _(Optional) Syntax and Semantics in Language Model Representation_ [[Video 발표자 김명섭](https://youtu.be/VAzpZh01g58)]
+- Reading Materials
+- Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning with neural networks. In Advances in neural information processing systems (pp. 3104-3112). ([PDF](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf))
+  - Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473. ([PDF](https://arxiv.org/pdf/1409.0473.pdf))
+  - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008). ([PDF](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf))
+  - Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K., & Zettlemoyer, L. (2018). Deep contextualized word representations. arXiv preprint arXiv:1802.05365. ([PDF](https://arxiv.org/pdf/1802.05365.pdf))
+  - Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. ([PDF](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf))
+  - Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805. ([PDF](https://arxiv.org/pdf/1810.04805.pdf))
+  - Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. OpenAI Blog, 1(8), 9. ([PDF](https://www.ceid.upatras.gr/webpages/faculty/zaro/teaching/alg-ds/PRESENTATIONS/PAPERS/2019-Radford-et-al_Language-Models-Are-Unsupervised-Multitask-%20Learners.pdf))
   
 
 ## Topic 9: Document Classification
