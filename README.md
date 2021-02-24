@@ -38,12 +38,12 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Practical Techniques
 
 ## Topic 4: Text Representation I: Classic Methods
-* Bag of words, Word weighting, N-grams ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/04%20Text%20Representation%20I%20-%20Classic%20Methods/04_Text%20Representation%20I_Classic%20Methods.pdf) ([Video](https://www.youtube.com/watch?v=DMNUVGbLp-0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=7))
+* Bag of words, Word weighting, N-grams ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/04%20Text%20Representation%20I%20-%20Classic%20Methods/04_Text%20Representation%20I_Classic%20Methods.pdf)) ([Video](https://www.youtube.com/watch?v=DMNUVGbLp-0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=7))
 
 ## Topic 5: Text Representation II: Distributed Representation
-* Neural Network Language Model (NNLM) [[Video](https://www.youtube.com/watch?v=bvSHJG-Fz3Y&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=8)]
-* Word2Vec [[Video](https://www.youtube.com/watch?v=s2KePv-OxZM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10&t=0s)]
-* GloVe [[Video](https://www.youtube.com/watch?v=JZI74rrMb_M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10)]
+* Neural Network Language Model (NNLM) ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_NNLM.pdf)) ([Video](https://www.youtube.com/watch?v=bvSHJG-Fz3Y&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=8))
+* Word2Vec ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_Word2Vec.pdf)) ([Video](https://www.youtube.com/watch?v=s2KePv-OxZM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10&t=0s))
+* GloVe ([Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_GloVe.pdf)) ([Video](https://www.youtube.com/watch?v=JZI74rrMb_M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10))
 * FastText, Doc2Vec, and Other Embeddings [[Video](https://www.youtube.com/watch?v=oRz6llDhFW8&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=11)]
 * Reading materials
   * Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). A neural probabilistic language model. Journal of machine learning research, 3(Feb), 1137-1155. ([PDF](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf))
