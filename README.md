@@ -7,17 +7,17 @@ Unstructured Data Analysis (Graduate) @Korea University
   - Term Project Presentations and Youtube summary (2020 Spring) ([link](https://docs.google.com/spreadsheets/d/118AMJWTO90ecanvUadqqEOIHj9bVCNlcMHZkPOjBpnc/edit?usp=sharing)) 
  
 ## Recommended courses
-  * CS224d @Stanford: Deep Learning for Natural Language Processing
-    * Course Homepage: http://cs224d.stanford.edu/
-    * YouTube Video: https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG
-    * DSBA Lab Seminar (2017) Playlist: https://youtube.com/playlist?list=PLetSlH8YjIfUf3gBv1JpCLa9WVaL8yE0-
-  * CS224n @Stanford: Natural Language Processing Deep Learning
-    * Course Homepage: http://web.stanford.edu/class/cs224n/
-    * Youtube Video: https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
-    * DSBA Lab Seminar (2019) Playlist: https://youtube.com/playlist?list=PLetSlH8YjIfVdobI2IkAQnNTb1Bt5Ji9U
-  * Deep Natural Lanugage Processing @Oxford
-    * Course Homepage: https://github.com/oxford-cs-deepnlp-2017/lectures
-    * DSBA Lab Seminar (2017) Playlist: https://youtube.com/playlist?list=PLetSlH8YjIfVK2_VTNNHnei0PluGv4Vfn
+  - **CS224d @Stanford: Deep Learning for Natural Language Processing**
+    - Course Homepage: http://cs224d.stanford.edu/
+    - YouTube Video: https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG
+    - DSBA Lab Seminar (2017) Playlist: https://youtube.com/playlist?list=PLetSlH8YjIfUf3gBv1JpCLa9WVaL8yE0-
+  - **CS224n @Stanford: Natural Language Processing Deep Learning**
+    - Course Homepage: http://web.stanford.edu/class/cs224n/
+    - Youtube Video: https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+    - DSBA Lab Seminar (2019) Playlist: https://youtube.com/playlist?list=PLetSlH8YjIfVdobI2IkAQnNTb1Bt5Ji9U
+  - **Deep Natural Lanugage Processing @Oxford**
+    - Course Homepage: https://github.com/oxford-cs-deepnlp-2017/lectures
+    - DSBA Lab Seminar (2017) Playlist: https://youtube.com/playlist?list=PLetSlH8YjIfVK2_VTNNHnei0PluGv4Vfn
 
 ## Schedule
 ## Topic 1: Introduction to Text Analytics
