@@ -45,6 +45,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Word2Vec [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_Word2Vec.pdf)], [[Video](https://www.youtube.com/watch?v=s2KePv-OxZM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10&t=0s)], [[(Optional) 발표자 김지나](https://youtu.be/sidPSG-EVDo)]
 * GloVe [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_GloVe.pdf)], [[Video](https://www.youtube.com/watch?v=JZI74rrMb_M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10)], [[(Optional) 발표자 조규원](https://youtu.be/8wG0sJm1EaU)]
 * FastText, Doc2Vec, and Other Embeddings [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_FastText.pdf)], [[Video](https://www.youtube.com/watch?v=oRz6llDhFW8&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=11)]
+* _(Optional) Analogies Explained: Towards Understanding Word Embeddings_ [[Video 발표자 김명섭](https://youtu.be/yveGzB3dB3U)]
 * Reading materials
   * Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). A neural probabilistic language model. Journal of machine learning research, 3(Feb), 1137-1155. ([PDF](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf))
   * Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781. ([PDF](https://arxiv.org/pdf/1301.3781.pdf))
@@ -83,7 +84,9 @@ Unstructured Data Analysis (Graduate) @Korea University
 * BERT: Bidirectional Encoder Representations from Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-5_BERT.pdf)], [[Video](https://www.youtube.com/watch?v=IwtexRHoWG0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=21)]
 * GPT-2: Language Models are Unsupervised Multitask Learners [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)], [[Video](https://youtu.be/8hd2Q-3-BsQ)]
 * _(Optional) How Contextual are Contextualized Word Representations? Comparing the Geoetry of BERT, ELMo, and GPT-2 Embeddings_ [[Video, 발표자 이유경](https://youtu.be/9roNxTSIHus)]
+* _(Optional) Semantics-aware BERT for Language Understanding_ [[Video 발표자 김명섭](https://youtu.be/vFXGvGMKesM)]
 * Reading Materials
+* _(Optional) Syntax and Semantics in Language Model Representation_ [[Video 발표자 김명섭](https://youtu.be/VAzpZh01g58)]
   * Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning with neural networks. In Advances in neural information processing systems (pp. 3104-3112). ([PDF](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf))
   * Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473. ([PDF](https://arxiv.org/pdf/1409.0473.pdf))
   * Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-6008). ([PDF](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf))
@@ -120,7 +123,10 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Topic 11: Document Summarization
 - Extractive Summarization
+- _(Optional) Extractive summarization as Text Matching_ [[Video 발표자 이유경](https://youtu.be/8E2Ia4Viu94)]
 - Abstractive Summarization
+- Extractive/Abstractive Summarization
+  - Text Summarization with Pretrained Encoder (BERTSum) [[Video 발표자 이정훈](https://youtu.be/PQk9kr9dGu0)]
 
 ## Topic 12: Question and Answering
 - Question and Answering (CS224N) [[Video, 발표자 조규원](https://youtu.be/7u6Ys7I0z2E)]
@@ -128,3 +134,6 @@ Unstructured Data Analysis (Graduate) @Korea University
 - Know what you don't know: Unanswerable questions for SQuAD [[Video, 발표자 김형석](https://youtu.be/uIoXJcsPj_8)]
 - Ask Me Anything: Dynamic Memory Networks for Natural Language Processing [[Video, 발표자 김지나](https://youtu.be/8uGpr-WyWlI)]
 - _(Optional) VQA: Visual Question Answering_ [[Video, 발표자 이윤승](https://youtu.be/uY6cWyG0JRQ)]
+
+## Topic 13: (Open) Information Extraction
+-  Open Information Extraction [[Video 발표자 노영빈](https://youtu.be/tUx3LgBhrXE)]
