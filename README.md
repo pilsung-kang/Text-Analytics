@@ -112,7 +112,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 ## Topic 10: Sentiment Analysis
 * Architecture of sentiment analysis [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_1_Sentiment%20Analysis%20Overview.pdf)], [[Video](https://www.youtube.com/watch?v=5ZC37vpaU-4)]
 * Lexicon-based approach [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_2_Sentiment%20Analysis_Lexicon-based%20Approach.pdf)], [[Video](https://www.youtube.com/watch?v=_YkDv1EFgwU)]
-* Machine learning-based approach [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_3_Sentiment%20Analysis_ML-based%20Approach.pdf)]
+* Machine learning-based approach [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_3_Sentiment%20Analysis_ML-based%20Approach.pdf)], [[Video](https://youtu.be/9roNxTSIHus)]
 * Reading materials
   * Hamilton, W. L., Clark, K., Leskovec, J., & Jurafsky, D. (2016, November). Inducing domain-specific sentiment lexicons from unlabeled corpora. In Proceedings of the Conference on Empirical Methods in Natural Language Processing. Conference on Empirical Methods in Natural Language Processing (Vol. 2016, p. 595). NIH Public Access. ([PDF](https://nlp.stanford.edu/pubs/hamilton2016inducing.pdf))
   * Zhang, L., Wang, S., & Liu, B. (2018). Deep learning for sentiment analysis: A survey. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 8(4), e1253. ([PDF](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf))
