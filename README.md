@@ -5,7 +5,21 @@ Unstructured Data Analysis (Graduate) @Korea University
 - **Syllabus** ([download](https://github.com/pilsung-kang/Text-Analytics/blob/master/2021_Spring_Unstructured%20Data%20Analysis.pdf))
 - **Term Project Presentations and Youtube summary (2021 Spring)** ([link](https://docs.google.com/spreadsheets/d/1UCu8uo4M728B8BMf9wyuyJ-4GTmeHCZM8a9LkOvPG9g/edit?usp=sharing))
   - Term Project Presentations and Youtube summary (2020 Spring) ([link](https://docs.google.com/spreadsheets/d/118AMJWTO90ecanvUadqqEOIHj9bVCNlcMHZkPOjBpnc/edit?usp=sharing)) 
- 
+
+## Schedule
+- 2021-03-09 (Tue): Term Project Meeting
+    - 1조: 강형원, 김지나, 김탁영, 허재혁
+    - 2조: 소규성, 이윤승, 정의석
+    - 3조: 김정섭, 김수빈, 최정우, 윤훈상
+    - 4조: 정은영, 오혜성 조민영
+- 2021-03-11 (Thu): Term Project Meeting
+    - 6조: 김형주, 천주영, 신동환
+    - 7조: 허종국, 임새린, 고은지, 황석철
+    - 10조: 유이경, 고은성, 조경선
+    - 11조: 김태연, 안시후, 오혜령, 조한샘
+- 2021-03-16 (Tue): Topic Discussion and QA
+- 2021-03-18 (Thu): No class
+
 ## Recommended courses
   - **CS224d @Stanford: Deep Learning for Natural Language Processing**
     - Course Homepage: http://cs224d.stanford.edu/
@@ -19,7 +33,7 @@ Unstructured Data Analysis (Graduate) @Korea University
     - Course Homepage: https://github.com/oxford-cs-deepnlp-2017/lectures
     - DSBA Lab Seminar (2017) Playlist: https://youtube.com/playlist?list=PLetSlH8YjIfVK2_VTNNHnei0PluGv4Vfn
 
-## Schedule
+## Contents
 ## Topic 1: Introduction to Text Analytics
 * Text Analytics: Backgrounds, Applications, & Challanges, and Process [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/01%20Introduction/01_Introduction%20to%20Text%20Analytics_part1.pdf)], [[Video](https://www.youtube.com/watch?v=UInnl60pzkA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=2)] **(2021-03-09)**
 * Text Analytics Process [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/01%20Introduction/01_Introduction%20to%20Text%20Analytics_part2.pdf)], [[Video](https://www.youtube.com/watch?v=Y0zrFVZqnl4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=3)] **(2021-03-09)**
