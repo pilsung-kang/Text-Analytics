@@ -14,7 +14,7 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 4조: 정은영, 오혜성 조민영
 - 2021-03-11 (Thu): Term Project Meeting
     - 5조: 김동균, 이찬호, 차형주
-    - 6조: 김형주, 천주영, 신동환, 박현준
+    - 6조: 김형주, 천주영, 신동환
     - 7조: 허종국, 임새린, 고은지, 황석철
     - 8조: 김아름, 최병록, 임민아, 임수연
 - 2021-03-16 (Tue): Topic Discussion and QA
