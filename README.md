@@ -17,8 +17,20 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 6조: 김형주, 천주영, 신동환
     - 7조: 허종국, 임새린, 고은지, 황석철
     - 8조: 김아름, 최병록, 임민아, 임수연
-- 2021-03-16 (Tue): Topic Discussion and QA
+- 2021-03-16 (Tue): Topic Discussion and QA (Topic 1, 2, 4)
 - 2021-03-18 (Thu): No class
+- 2021-03-22 (Tue): Term Project Meeting
+    - 9조: 유이경, 고은성, 조경선, 김지은
+    - 10조: 김태연, 안시후, 오혜령, 조한샘
+    - 11조: 안인범, 김정원, 황성진, 김상민
+    - 12조: 정회찬, 신우석, 양석우, 노상균, 김진섭, 김영섭
+- 2021-03-25 (Thu): No class
+- 2021-03-30 (Tue): Topic Discussion and QA (Topic 5)
+- 2021-04-01 (Thu): Term Project Meeting
+    - 1조, 2조, 3조, 4조
+- 2021-04-06 (Tue): Topic Discussion and QA (Topic 6)
+- 2021-04-08 (Thu): Term Project Meeting
+    - 5조, 6조, 7조, 8조
 
 ## Recommended courses
   - **CS224d @Stanford: Deep Learning for Natural Language Processing**
