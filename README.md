@@ -7,30 +7,45 @@ Unstructured Data Analysis (Graduate) @Korea University
   - Term Project Presentations and Youtube summary (2020 Spring) ([link](https://docs.google.com/spreadsheets/d/118AMJWTO90ecanvUadqqEOIHj9bVCNlcMHZkPOjBpnc/edit?usp=sharing)) 
 
 ## Schedule
-- 2021-03-09 (Tue): Term Project Meeting
+- 2021-03-09 (Tue): Term Project Meeting (Round 1)
     - 1조: 강형원, 김지나, 김탁영, 김수빈
     - 2조: 소규성, 이윤승, 정의석
     - 3조: 김정섭, 허재혁, 최정우, 윤훈상
     - 4조: 정은영, 오혜성 조민영
-- 2021-03-11 (Thu): Term Project Meeting
+- 2021-03-11 (Thu): Term Project Meeting (Round 1)
     - 5조: 김동균, 이찬호, 차형주
     - 6조: 김형주, 천주영, 신동환
     - 7조: 허종국, 임새린, 고은지, 황석철
     - 8조: 김아름, 최병록, 임민아, 임수연
 - 2021-03-16 (Tue): Topic Discussion and QA (Topic 1, 2, 4)
+    - 동영상 시청 완료 및 질문 등록: 2021-03-09
+    - 질문에 대한 수강생 답변 등록: 2021-03-14
+    - 유튜브 요약 영상 업로드: 2021-03-18
 - 2021-03-18 (Thu): No class
-- 2021-03-22 (Tue): Term Project Meeting
+- 2021-03-22 (Tue): Term Project Meeting (Round 1)
     - 9조: 유이경, 고은성, 조경선, 김지은
     - 10조: 김태연, 안시후, 오혜령, 조한샘
     - 11조: 안인범, 김정원, 황성진, 김상민
     - 12조: 정회찬, 신우석, 양석우, 노상균, 김진섭, 김영섭
 - 2021-03-25 (Thu): No class
 - 2021-03-30 (Tue): Topic Discussion and QA (Topic 5)
-- 2021-04-01 (Thu): Term Project Meeting
+    - 동영상 시청 완료 및 질문 등록: 2021-03-23
+    - 질문에 대한 수강생 답변 등록: 2021-03-28
+    - 유튜브 요약 영상 업로드: 2021-04-01
+- 2021-04-01 (Thu): Term Project Meeting (Round 2)
     - 1조, 2조, 3조, 4조
 - 2021-04-06 (Tue): Topic Discussion and QA (Topic 6)
-- 2021-04-08 (Thu): Term Project Meeting
+    - 동영상 시청 완료 및 질문 등록: 2021-03-30
+    - 질문에 대한 수강생 답변 등록: 2021-04-04
+    - 유튜브 요약 영상 업로드: 2021-04-08
+- 2021-04-08 (Thu): Term Project Meeting (Round 2)
     - 5조, 6조, 7조, 8조
+- 2021-04-13 (Tue): Topic Discussion and QA (Topic 7)
+    - 동영상 시청 완료 및 질문 등록: 2021-04-06
+    - 질문에 대한 수강생 답변 등록: 2021-04-011
+    - 유튜브 요약 영상 업로드: 2021-04-15
+- 2021-04-15 (Thu): Term Project Meeting (Round 2)
+    - 9조, 10조, 11조, 12조
 
 ## Recommended courses
   - **CS224d @Stanford: Deep Learning for Natural Language Processing**
@@ -70,10 +85,10 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Bag of words, Word weighting, N-grams [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/04%20Text%20Representation%20I%20-%20Classic%20Methods/04_Text%20Representation%20I_Classic%20Methods.pdf)], [[Video](https://www.youtube.com/watch?v=DMNUVGbLp-0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=7)] **(2021-03-09)**
 
 ## Topic 5: Text Representation II: Distributed Representation
-* Neural Network Language Model (NNLM) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_NNLM.pdf)], [[Video](https://www.youtube.com/watch?v=bvSHJG-Fz3Y&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=8)] **(2021-03-16)**
-* Word2Vec [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_Word2Vec.pdf)], [[Video](https://www.youtube.com/watch?v=s2KePv-OxZM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10&t=0s)], [[Optional Video (발표자: 김지나)](https://youtu.be/sidPSG-EVDo)] **(2021-03-16)**
-* GloVe [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_GloVe.pdf)], [[Video](https://www.youtube.com/watch?v=JZI74rrMb_M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10)], [[Optional Video (발표자 조규원)](https://youtu.be/8wG0sJm1EaU)] **(2021-03-16)**
-* FastText, Doc2Vec, and Other Embeddings [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_FastText.pdf)], [[Video](https://www.youtube.com/watch?v=oRz6llDhFW8&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=11)] **(2021-03-16)**
+* Neural Network Language Model (NNLM) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_NNLM.pdf)], [[Video](https://www.youtube.com/watch?v=bvSHJG-Fz3Y&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=8)] **(2021-03-23)**
+* Word2Vec [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_Word2Vec.pdf)], [[Video](https://www.youtube.com/watch?v=s2KePv-OxZM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10&t=0s)], [[Optional Video (발표자: 김지나)](https://youtu.be/sidPSG-EVDo)] **(2021-03-23)**
+* GloVe [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_GloVe.pdf)], [[Video](https://www.youtube.com/watch?v=JZI74rrMb_M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=10)], [[Optional Video (발표자 조규원)](https://youtu.be/8wG0sJm1EaU)] **(2021-03-23)**
+* FastText, Doc2Vec, and Other Embeddings [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/05%20Text%20Representation%20II%20-%20Distributed%20Representation/05_Text%20Representation%20II%20-%20Distributed%20Representation_FastText.pdf)], [[Video](https://www.youtube.com/watch?v=oRz6llDhFW8&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=11)] **(2021-03-23)**
 * _(Optional) Analogies Explained: Towards Understanding Word Embeddings_ [[Video (발표자: 김명섭)](https://youtu.be/yveGzB3dB3U)]
 * Reading materials
   * Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). A neural probabilistic language model. Journal of machine learning research, 3(Feb), 1137-1155. ([PDF](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf))
@@ -83,17 +98,17 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2016). Enriching word vectors with subword information. arXiv preprint arXiv:1607.04606. ([PDF](https://arxiv.org/pdf/1607.04606.pdf))
 
 ## Topic 6: Dimensionality Reduction
-* Dimensionality Reduction Overview, Supervised Feature Selection [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/06%20Dimensionality%20Reduction/06_Dimensionality%20Reduction_Feature%20Selection.pdf)], [[Video](https://www.youtube.com/watch?v=Gldr3LQvnSA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=12)] **(2021-03-23)**
-* Unsupervised Feature Extraction [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/06%20Dimensionality%20Reduction/06_Dimensionality%20Reduction_Feature%20Extraction.pdf)], [[Video](https://www.youtube.com/watch?v=XYCVzp0NGFc&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=13)] **(2021-03-23)**
+* Dimensionality Reduction Overview, Supervised Feature Selection [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/06%20Dimensionality%20Reduction/06_Dimensionality%20Reduction_Feature%20Selection.pdf)], [[Video](https://www.youtube.com/watch?v=Gldr3LQvnSA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=12)] **(2021-03-30)**
+* Unsupervised Feature Extraction [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/06%20Dimensionality%20Reduction/06_Dimensionality%20Reduction_Feature%20Extraction.pdf)], [[Video](https://www.youtube.com/watch?v=XYCVzp0NGFc&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=13)] **(2021-03-30)**
 * Reading materials
   * Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). Indexing by latent semantic analysis. Journal of the American society for information science, 41(6), 391-407. ([PDF](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/%28SICI%291097-4571%28199009%2941%3A6%3C391%3A%3AAID-ASI1%3E3.0.CO%3B2-9))
   * Landauer, T. K., Foltz, P. W., & Laham, D. (1998). An introduction to latent semantic analysis. Discourse processes, 25(2-3), 259-284. ([PDF](https://www.tandfonline.com/doi/pdf/10.1080/01638539809545028?needAccess=true))
   * Maaten, L. V. D., & Hinton, G. (2008). Visualizing data using t-SNE. Journal of machine learning research, 9(Nov), 2579-2605. ([PDF](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)) ([Homepage](https://lvdmaaten.github.io/tsne/))
 
 ## Topic 7: Topic Modeling as a Distributed Reprentation
-* Topic modeling overview & Latent Semantic Analysis (LSA), Probabilistic Latent Semantic Analysis: pLSA [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LSA_pLSA.pdf)], [[Video](https://www.youtube.com/watch?v=J1ri0EQnUOg&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=14)] **(2021-03-30)**
+* Topic modeling overview & Latent Semantic Analysis (LSA), Probabilistic Latent Semantic Analysis: pLSA [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LSA_pLSA.pdf)], [[Video](https://www.youtube.com/watch?v=J1ri0EQnUOg&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=14)] **(2021-04-06)**
 * LDA: Document Generation Process [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Generation.pdf)], [[Video](https://www.youtube.com/watch?v=WR2On5QAqJQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=15)] **(2021-04-06)**
-* LDA Inference: Collapsed Gibbs Sampling, LDA Evaluation [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)], [[Video](https://www.youtube.com/watch?v=iwMSCsiL6wQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=16)] **(2021-04-13)**
+* LDA Inference: Collapsed Gibbs Sampling, LDA Evaluation [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)], [[Video](https://www.youtube.com/watch?v=iwMSCsiL6wQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=16)] **(2021-04-06)**
 * Reading Materials
   * Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). Indexing by latent semantic analysis. Journal of the American society for information science, 41(6), 391. ([PDF](http://lsa.colorado.edu/papers/JASIS.lsi.90.pdf))
   * Dumais, S. T. (2004). Latent semantic analysis. Annual review of information science and technology, 38(1), 188-230.
