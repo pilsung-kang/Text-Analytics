@@ -42,7 +42,7 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 5조, 6조, 7조, 8조
 - **2021-04-13 (Tue): Topic Discussion and QA (Topic 7)**
     - 동영상 시청 완료 및 질문 등록: 2021-04-06
-    - 질문에 대한 수강생 답변 등록: 2021-04-011
+    - 질문에 대한 수강생 답변 등록: 2021-04-11
     - 유튜브 요약 영상 업로드: 2021-04-15
 - **2021-04-15 (Thu): Term Project Meeting (Round 2)**
     - 9조, 10조, 11조, 12조
