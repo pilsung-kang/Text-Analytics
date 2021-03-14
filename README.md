@@ -131,8 +131,8 @@ Unstructured Data Analysis (Graduate) @Korea University
   - _(Optional) Semantics-aware BERT for Language Understanding_ [[Video (발표자: 김명섭)](https://youtu.be/vFXGvGMKesM)]
 - GPT-2: Language Models are Unsupervised Multitask Learners [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)], [[Video](https://youtu.be/8hd2Q-3-BsQ)]
 - Transformer to T5 (XLNet, RoBERTa, MASS, BART, MT-DNN,T5) [[Video (발표자: 이유경)](https://youtu.be/v7diENO2mEA)]
-- GPT-3: Language Models are Few Shot Learners [[Slide]()], [[Video](https://youtu.be/xNdp3_Zrr8Q)]
-- _(Optional) How Contextual are Contextualized Word Representations? Comparing the Geoetry of BERT, ELMo, and GPT-2 Embeddings_ [[Video (발표자: 이유경)](https://youtu.be/d05ype2cVQc)]
+- GPT-3: Language Models are Few Shot Learners [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/GPT-3.pdf)], [[Video](https://youtu.be/xNdp3_Zrr8Q)]
+- _(Optional) How Contextual are Contextualized Word Representations? Comparing the Geoetry of BERT, ELMo, and GPT-2 Embeddings_ [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/Transformer%20to%20T5_final_%EC%9D%B4%EC%9C%A0%EA%B2%BD.pdf)], [[Video (발표자: 이유경)](https://youtu.be/d05ype2cVQc)]
 - _(Optional) Syntax and Semantics in Language Model Representation_ [[Video (발표자: 김명섭)](https://youtu.be/VAzpZh01g58)]
 - Reading Materials
 - Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning with neural networks. In Advances in neural information processing systems (pp. 3104-3112). ([PDF](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf))
