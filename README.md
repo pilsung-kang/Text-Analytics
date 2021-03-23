@@ -22,7 +22,7 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 질문에 대한 수강생 답변 등록: 2021-03-14
     - 유튜브 요약 영상 업로드: 2021-03-18
 - 2021-03-18 (Thu): No class
-- **2021-03-22 (Tue): Term Project Meeting (Round 1)**
+- **2021-03-23 (Tue): Term Project Meeting (Round 1)**
     - 9조: 유이경, 고은성, 조경선, 김지은
     - 10조: 김태연, 안시후, 오혜령, 조한샘
     - 11조: 안인범, 김정원, 황성진, 김상민
