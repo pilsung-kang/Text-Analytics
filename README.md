@@ -5,6 +5,9 @@ Unstructured Data Analysis (Graduate) @Korea University
 - **Syllabus** ([download](https://github.com/pilsung-kang/Text-Analytics/blob/master/2021_Spring_Unstructured%20Data%20Analysis.pdf))
 - **Term Project Presentations and Youtube summary (2021 Spring)** ([link](https://docs.google.com/spreadsheets/d/1UCu8uo4M728B8BMf9wyuyJ-4GTmeHCZM8a9LkOvPG9g/edit?usp=sharing))
   - Term Project Presentations and Youtube summary (2020 Spring) ([link](https://docs.google.com/spreadsheets/d/118AMJWTO90ecanvUadqqEOIHj9bVCNlcMHZkPOjBpnc/edit?usp=sharing)) 
+- **Term Project 제안발표**
+  - Instruction [[download](https://www.dropbox.com/s/emn6yugdqc7re24/Term%20Project_%EC%A0%9C%EC%95%88%EB%B0%9C%ED%91%9C.pdf?dl=0)]
+  - Deadline: 2021-03-31 23:59
 
 ## Schedule
 - **2021-03-09 (Tue): Term Project Meeting (Round 1)**
@@ -33,19 +36,25 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 질문에 대한 수강생 답변 등록: 2021-03-28
     - 유튜브 요약 영상 업로드: 2021-04-01
 - **2021-04-01 (Thu): Term Project Meeting (Round 2)**
-    - 1조, 2조, 3조, 4조
+    - 1조, 2조, 3조
 - **2021-04-06 (Tue): Topic Discussion and QA (Topic 6)**
     - 동영상 시청 완료 및 질문 등록: 2021-03-30
     - 질문에 대한 수강생 답변 등록: 2021-04-04
     - 유튜브 요약 영상 업로드: 2021-04-08
 - **2021-04-08 (Thu): Term Project Meeting (Round 2)**
-    - 5조, 6조, 7조, 8조
+    - 4조, 5조, 6조
 - **2021-04-13 (Tue): Topic Discussion and QA (Topic 7)**
     - 동영상 시청 완료 및 질문 등록: 2021-04-06
     - 질문에 대한 수강생 답변 등록: 2021-04-11
     - 유튜브 요약 영상 업로드: 2021-04-15
 - **2021-04-15 (Thu): Term Project Meeting (Round 2)**
-    - 9조, 10조, 11조, 12조
+    - 7조, 8조, 9조
+- **2021-04-20 (Tue): Topic Discussion and QA (Topic 8 - Seq2Seq Learning & Transformer)**
+    - 동영상 시청 완료 및 질문 등록: 2021-04-13
+    - 질문에 대한 수강생 답변 등록: 2021-04-18
+    - 유튜브 요약 영상 업로드: 2021-04-22
+- **2021-04-15 (Thu): Term Project Meeting (Round 2)**
+    - 10조, 11조, 12조
 
 ## Recommended courses
   - **CS224d @Stanford: Deep Learning for Natural Language Processing**
