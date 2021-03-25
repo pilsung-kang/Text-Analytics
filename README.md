@@ -157,6 +157,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   - Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., ... & Zettlemoyer, L. (2019). Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. arXiv preprint arXiv:1910.13461. ([PDF](https://arxiv.org/pdf/1910.13461.pdf))
   - Liu, X., He, P., Chen, W., & Gao, J. (2019). Multi-task deep neural networks for natural language understanding. arXiv preprint arXiv:1901.11504. ([PDF](https://arxiv.org/pdf/1901.11504.pdf))
   - Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2019). Exploring the limits of transfer learning with a unified text-to-text transformer. arXiv preprint arXiv:1910.10683. ([PDF](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf))
+  - Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. arXiv preprint arXiv:2005.14165. ([PDF](https://arxiv.org/pdf/2005.14165.pdf))
   
 
 ## Topic 9: Document Classification
@@ -184,13 +185,17 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Hamilton, W. L., Clark, K., Leskovec, J., & Jurafsky, D. (2016, November). Inducing domain-specific sentiment lexicons from unlabeled corpora. In Proceedings of the Conference on Empirical Methods in Natural Language Processing. Conference on Empirical Methods in Natural Language Processing (Vol. 2016, p. 595). NIH Public Access. ([PDF](https://nlp.stanford.edu/pubs/hamilton2016inducing.pdf))
   * Zhang, L., Wang, S., & Liu, B. (2018). Deep learning for sentiment analysis: A survey. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 8(4), e1253. ([PDF](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf))
 
-## Topic 11: Document Summarization
+## Topic 11: Text Summarization
+- Text summarization Overview [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Text%20Summarization_Overview.pdf)]
 - Extractive Summarization
   - _(Optional) Single Document Summarization as Tree Induction_ [[Video (발표자: 최종현)](https://youtu.be/_yWyO9s5rBk)]
   - _(Optional) Extractive summarization as Text Matching_ [[Video (발표자: 이유경)](https://youtu.be/8E2Ia4Viu94)]
 - Abstractive Summarization
 - Extractive/Abstractive Summarization
   - Text Summarization with Pretrained Encoder (BERTSum) [[Video (발표자: 이정훈)](https://youtu.be/PQk9kr9dGu0)]
+- Reading materials
+  - Lin, C. Y. (2004, July). Rouge: A package for automatic evaluation of summaries. In Text summarization branches out (pp. 74-81). ([PDF](https://www.aclweb.org/anthology/W04-1013.pdf))
+  - Ganesan, K. (2018). Rouge 2.0: Updated and improved measures for evaluation of summarization tasks. arXiv preprint arXiv:1803.01937. ([PDF](https://arxiv.org/pdf/1803.01937.pdf))
 
 ## Topic 12: Question and Answering
 - Question and Answering (CS224N) [[Video (발표자: 조규원)](https://youtu.be/7u6Ys7I0z2E)]
