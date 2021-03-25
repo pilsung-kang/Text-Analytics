@@ -5,6 +5,9 @@ Unstructured Data Analysis (Graduate) @Korea University
 - **Syllabus** ([download](https://github.com/pilsung-kang/Text-Analytics/blob/master/2021_Spring_Unstructured%20Data%20Analysis.pdf))
 - **Term Project Presentations and Youtube summary (2021 Spring)** ([link](https://docs.google.com/spreadsheets/d/1UCu8uo4M728B8BMf9wyuyJ-4GTmeHCZM8a9LkOvPG9g/edit?usp=sharing))
   - Term Project Presentations and Youtube summary (2020 Spring) ([link](https://docs.google.com/spreadsheets/d/118AMJWTO90ecanvUadqqEOIHj9bVCNlcMHZkPOjBpnc/edit?usp=sharing)) 
+- **Term Project 제안발표**
+  - Instruction [[download](https://www.dropbox.com/s/emn6yugdqc7re24/Term%20Project_%EC%A0%9C%EC%95%88%EB%B0%9C%ED%91%9C.pdf?dl=0)]
+  - Deadline: 2021-03-31 23:59
 
 ## Schedule
 - **2021-03-09 (Tue): Term Project Meeting (Round 1)**
@@ -22,7 +25,7 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 질문에 대한 수강생 답변 등록: 2021-03-14
     - 유튜브 요약 영상 업로드: 2021-03-18
 - 2021-03-18 (Thu): No class
-- **2021-03-22 (Tue): Term Project Meeting (Round 1)**
+- **2021-03-23 (Tue): Term Project Meeting (Round 1)**
     - 9조: 유이경, 고은성, 조경선, 김지은
     - 10조: 김태연, 안시후, 오혜령, 조한샘
     - 11조: 안인범, 김정원, 황성진, 김상민
@@ -33,19 +36,25 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 질문에 대한 수강생 답변 등록: 2021-03-28
     - 유튜브 요약 영상 업로드: 2021-04-01
 - **2021-04-01 (Thu): Term Project Meeting (Round 2)**
-    - 1조, 2조, 3조, 4조
+    - 1조, 2조, 3조
 - **2021-04-06 (Tue): Topic Discussion and QA (Topic 6)**
     - 동영상 시청 완료 및 질문 등록: 2021-03-30
     - 질문에 대한 수강생 답변 등록: 2021-04-04
     - 유튜브 요약 영상 업로드: 2021-04-08
 - **2021-04-08 (Thu): Term Project Meeting (Round 2)**
-    - 5조, 6조, 7조, 8조
+    - 4조, 5조, 6조
 - **2021-04-13 (Tue): Topic Discussion and QA (Topic 7)**
     - 동영상 시청 완료 및 질문 등록: 2021-04-06
     - 질문에 대한 수강생 답변 등록: 2021-04-11
     - 유튜브 요약 영상 업로드: 2021-04-15
 - **2021-04-15 (Thu): Term Project Meeting (Round 2)**
-    - 9조, 10조, 11조, 12조
+    - 7조, 8조, 9조
+- **2021-04-20 (Tue): Topic Discussion and QA (Topic 8 - Seq2Seq Learning & Transformer)**
+    - 동영상 시청 완료 및 질문 등록: 2021-04-13
+    - 질문에 대한 수강생 답변 등록: 2021-04-18
+    - 유튜브 요약 영상 업로드: 2021-04-22
+- **2021-04-15 (Thu): Term Project Meeting (Round 2)**
+    - 10조, 11조, 12조
 
 ## Recommended courses
   - **CS224d @Stanford: Deep Learning for Natural Language Processing**
@@ -121,8 +130,8 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Variational Inference for LDA by D. Blei ([Lecture Video](https://www.youtube.com/watch?v=Dv86zdWjJKQ&t=113s))
 
 ## Topic 8: Language Modeling & Pre-trained Models
-- Sequence-to-Sequence Learning [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-1_Seq2Seq%20Learning.pdf)], [[Video](https://www.youtube.com/watch?v=0lgWzluKq1k&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=17)]
-- Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-2_Transformer.pdf)], [[Video](https://www.youtube.com/watch?v=Yk1tV_cXMMU&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=18)], [[Optional Video (발표자: 김동화)](https://youtu.be/xhY7m8QVKjo)]
+- Sequence-to-Sequence Learning [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-1_Seq2Seq%20Learning.pdf)], [[Video](https://www.youtube.com/watch?v=0lgWzluKq1k&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=17)] **(2021-04-13)**
+- Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-2_Transformer.pdf)], [[Video](https://www.youtube.com/watch?v=Yk1tV_cXMMU&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=18)], [[Optional Video (발표자: 김동화)](https://youtu.be/xhY7m8QVKjo)] **(2021-04-13)**
   - _(Optional) Reformer: The Efficient Transformer_ [[Video (발표자: 김정희)](https://youtu.be/6ognBL6DEYM)]
   - _(Optional) Multimodal Transformer for Unaligned Multimodal Language Sequences_ [[Video (발표자: 노영빈)](https://youtu.be/JTbX4OyUF-c)]
 - ELMo: Embeddings from Language Models [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-3_ELMo.pdf)], [[Video](https://www.youtube.com/watch?v=zV8kIUwH32M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=19)]
