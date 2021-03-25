@@ -199,12 +199,17 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Topic 12: Question and Answering
 - Question and Answering (CS224N) [[Video (발표자: 조규원)](https://youtu.be/7u6Ys7I0z2E)]
-- Squad: 100,000+ questions for machine comprehension of text [[Video (발표자: 김형석)](https://youtu.be/CbY_xcBGR20)]
+- SQuAD: 100,000+ questions for machine comprehension of text [[Video (발표자: 김형석)](https://youtu.be/CbY_xcBGR20)]
 - Know what you don't know: Unanswerable questions for SQuAD [[Video (발표자: 김형석)](https://youtu.be/uIoXJcsPj_8)]
+- End-To-End Memory Networks [[Video (발표자: 허재혁)](https://youtu.be/CM5lRnNad2Q)]
 - Ask Me Anything: Dynamic Memory Networks for Natural Language Processing [[Video (발표자: 김지나)](https://youtu.be/8uGpr-WyWlI)]
 - _(Optional) A Regurrent BERT-based Model for Question Generation & Learning to Answer by Learning to Ask: Getting the Best of GPT-2 and BERT Worlds_ [[Video (발표자: 조규원)](https://youtu.be/xu6tv1aoTOY)]
 - _(Optional) VQA: Visual Question Answering_ [[Video (발표자: 이윤승)](https://youtu.be/uY6cWyG0JRQ)]
-
+- Reading Materials
+  - Rajpurkar, P., Zhang, J., Lopyrev, K., & Liang, P. (2016). Squad: 100,000+ questions for machine comprehension of text. arXiv preprint arXiv:1606.05250. ([PDF](https://arxiv.org/pdf/1606.05250.pdf))
+  - Rajpurkar, P., Jia, R., & Liang, P. (2018). Know what you don't know: Unanswerable questions for SQuAD. arXiv preprint arXiv:1806.03822. ([PDF](https://arxiv.org/pdf/1806.03822.pdf))
+  - Sukhbaatar, S., Szlam, A., Weston, J., & Fergus, R. (2015). End-to-end memory networks. arXiv preprint arXiv:1503.08895. ([PDF](https://arxiv.org/pdf/1503.08895.pdf))
+  - Kumar, A., Irsoy, O., Ondruska, P., Iyyer, M., Bradbury, J., Gulrajani, I., ... & Socher, R. (2016, June). Ask me anything: Dynamic memory networks for natural language processing. In International conference on machine learning (pp. 1378-1387). PMLR. ([PDF](https://arxiv.org/pdf/1506.07285.pdf))
 
 ## Topic 13: (Open) Information Extraction
 -  Open Information Extraction [[Video (발표자: 노영빈)](https://youtu.be/tUx3LgBhrXE)]
