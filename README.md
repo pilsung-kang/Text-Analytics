@@ -20,7 +20,7 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 6조: 김형주, 천주영, 신동환
     - 7조: 허종국, 임새린, 고은지, 황석철
     - 8조: 김아름, 최병록, 임민아, 임수연
-- **2021-03-16 (Tue): Topic Discussion and QA (Topic 1, 2, 4)**
+- **2021-03-16 (Tue): Topic Discussion and QA (Topic 1, 2)**
     - 동영상 시청 완료 및 질문 등록: 2021-03-09
     - 질문에 대한 수강생 답변 등록: 2021-03-14
     - 유튜브 요약 영상 업로드: 2021-03-18
@@ -31,7 +31,7 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 11조: 안인범, 김정원, 황성진, 김상민
     - 12조: 정회찬, 신우석, 양석우, 노상균, 김진섭, 김영섭
 - 2021-03-25 (Thu): No class
-- **2021-03-30 (Tue): Topic Discussion and QA (Topic 5)**
+- **2021-03-30 (Tue): Topic Discussion and QA (Topic 4, 5)**
     - 동영상 시청 완료 및 질문 등록: 2021-03-23
     - 질문에 대한 수강생 답변 등록: 2021-03-28
     - 유튜브 요약 영상 업로드: 2021-04-01
