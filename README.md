@@ -131,7 +131,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Topic 8: Language Modeling & Pre-trained Models
 - Sequence-to-Sequence Learning [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-1_Seq2Seq%20Learning.pdf)], [[Video](https://www.youtube.com/watch?v=0lgWzluKq1k&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=17)] **(2021-04-13)**
-- Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-2_Transformer.pdf)], [[Video](https://www.youtube.com/watch?v=Yk1tV_cXMMU&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=18)], [[Optional Video (발표자: 김동화)](https://youtu.be/xhY7m8QVKjo)] **(2021-04-13)**
+- Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-2_Transformer.pdf)], [[Video](https://www.youtube.com/watch?v=Yk1tV_cXMMU&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=18)], [[Optional Video (발표자: 김동화)](https://youtu.be/xhY7m8QVKjo)], [[Optional Video (발표자: 소규성)](https://youtu.be/x_8cp4Vdnak)] **(2021-04-13)**
   - _(Optional) Reformer: The Efficient Transformer_ [[Video (발표자: 김정희)](https://youtu.be/6ognBL6DEYM)]
   - _(Optional) Multimodal Transformer for Unaligned Multimodal Language Sequences_ [[Video (발표자: 노영빈)](https://youtu.be/JTbX4OyUF-c)]
 - ELMo: Embeddings from Language Models [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-3_ELMo.pdf)], [[Video](https://www.youtube.com/watch?v=zV8kIUwH32M&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=19)]
