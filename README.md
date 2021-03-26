@@ -186,7 +186,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   * Zhang, L., Wang, S., & Liu, B. (2018). Deep learning for sentiment analysis: A survey. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 8(4), e1253. ([PDF](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf))
 
 ## Topic 11: Text Summarization
-- Text summarization Overview [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Text%20Summarization_Overview.pdf)]
+- Text summarization Overview [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Text%20Summarization_Overview.pdf)], [[Video](https://youtu.be/25TEdaQPqQY)]
 - Extractive Summarization
   - _(Optional) Single Document Summarization as Tree Induction_ [[Video (발표자: 최종현)](https://youtu.be/_yWyO9s5rBk)]
   - _(Optional) Extractive summarization as Text Matching_ [[Video (발표자: 이유경)](https://youtu.be/8E2Ia4Viu94)]
