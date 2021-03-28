@@ -71,18 +71,22 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Contents
 ## Topic 1: Introduction to Text Analytics
-* Text Analytics: Backgrounds, Applications, & Challanges, and Process [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/01%20Introduction/01_Introduction%20to%20Text%20Analytics_part1.pdf)], [[Video](https://www.youtube.com/watch?v=UInnl60pzkA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=2)] **(2021-03-09)**
-* Text Analytics Process [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/01%20Introduction/01_Introduction%20to%20Text%20Analytics_part2.pdf)], [[Video](https://www.youtube.com/watch?v=Y0zrFVZqnl4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=3)] **(2021-03-09)**
+- Text Analytics: Backgrounds, Applications, & Challanges, and Process [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/01%20Introduction/01_Introduction%20to%20Text%20Analytics_part1.pdf)], [[Video](https://www.youtube.com/watch?v=UInnl60pzkA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=2)] **(2021-03-09)**
+- Text Analytics Process [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/01%20Introduction/01_Introduction%20to%20Text%20Analytics_part2.pdf)], [[Video](https://www.youtube.com/watch?v=Y0zrFVZqnl4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=3)] **(2021-03-09)**
+- Q & A Session [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/01%20Introduction/(2021)%2001_Introduction%20to%20Text%20Analytics_QA.pdf)]
+- Reading materials
+  - NLP Year in Review - 2019 ([Medium Post](https://medium.com/dair-ai/nlp-year-in-review-2019-fb8d523bcb19))
+  - Natural Language Processing in 2020: The Year In Review ([Linkedin Post](https://www.linkedin.com/pulse/natural-language-processing-2020-year-review-ivan-bilan))
 
 ## Topic 2: Text Preprocessing
-* Introduction to Natural Language Processing (NLP) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/02%20Text%20Preprocessing/02_Text%20Preprocessing_part1.pdf)], [[Video](https://www.youtube.com/watch?v=NLaxlUKFVw4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5&t=0s)] **(2021-03-09)**
-* Lexical analysis [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/02%20Text%20Preprocessing/02_Text%20Preprocessing_part2.pdf)], [[Video](https://www.youtube.com/watch?v=5gt1KvkkOlc&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5)] **(2021-03-09)**
-* Syntax analysis & Other topics in NLP [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/02%20Text%20Preprocessing/02_Text%20Preprocessing_part3.pdf)], [[Video](https://www.youtube.com/watch?v=DdFKFqZyv5s&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=6)] **(2021-03-09)**
-* Reading materials
-  * Cambria, E., & White, B. (2014). Jumping NLP curves: A review of natural language processing research. IEEE Computational intelligence magazine, 9(2), 48-57. ([PDF](http://ieeexplore.ieee.org/abstract/document/6786458/))
-  * Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). Natural language processing (almost) from scratch. Journal of Machine Learning Research, 12(Aug), 2493-2537. ([PDF](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf))
-  * Young, T., Hazarika, D., Poria, S., & Cambria, E. (2017). Recent trends in deep learning based natural language processing. arXiv preprint arXiv:1708.02709. ([PDF](https://arxiv.org/pdf/1708.02709.pdf))
-  * NLP Year in Review - 2019 ([Medium Post](https://medium.com/dair-ai/nlp-year-in-review-2019-fb8d523bcb19))
+- Introduction to Natural Language Processing (NLP) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/02%20Text%20Preprocessing/02_Text%20Preprocessing_part1.pdf)], [[Video](https://www.youtube.com/watch?v=NLaxlUKFVw4&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5&t=0s)] **(2021-03-09)**
+- Lexical analysis [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/02%20Text%20Preprocessing/02_Text%20Preprocessing_part2.pdf)], [[Video](https://www.youtube.com/watch?v=5gt1KvkkOlc&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=5)] **(2021-03-09)**
+- Syntax analysis & Other topics in NLP [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/02%20Text%20Preprocessing/02_Text%20Preprocessing_part3.pdf)], [[Video](https://www.youtube.com/watch?v=DdFKFqZyv5s&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=6)] **(2021-03-09)**
+- Reading materials
+  - Cambria, E., & White, B. (2014). Jumping NLP curves: A review of natural language processing research. IEEE Computational intelligence magazine, 9(2), 48-57. ([PDF](http://ieeexplore.ieee.org/abstract/document/6786458/))
+  - Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). Natural language processing (almost) from scratch. Journal of Machine Learning Research, 12(Aug), 2493-2537. ([PDF](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf))
+  - Young, T., Hazarika, D., Poria, S., & Cambria, E. (2017). Recent trends in deep learning based natural language processing. arXiv preprint arXiv:1708.02709. ([PDF](https://arxiv.org/pdf/1708.02709.pdf))
+
 
 ## Topic 3: Neural Networks Basics (Optional, No Video Lectures)
 * Perception, Multi-layered Perceptron
