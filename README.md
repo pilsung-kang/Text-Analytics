@@ -41,44 +41,45 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 동영상 시청 완료 및 질문 등록: 2021-03-30
     - 질문에 대한 수강생 답변 등록: 2021-04-04
     - 유튜브 요약 영상 업로드: 2021-04-08
+    - **Term Project Meeting (Round 2)**
+      - 4조, 5조, 6조
 - **2021-04-08 (Thu): Term Project Meeting (Round 2)**
-    - 4조, 5조, 6조
+    - 7조, 8조, 9조
 - **2021-04-13 (Tue): Topic Discussion and QA (Topic 7)**
     - 동영상 시청 완료 및 질문 등록: 2021-04-06
     - 질문에 대한 수강생 답변 등록: 2021-04-11
     - 유튜브 요약 영상 업로드: 2021-04-15
 - **2021-04-15 (Thu): Term Project Meeting (Round 2)**
-    - 7조, 8조, 9조
+    - 10조, 11조, 12조
 - **2021-04-20 (Tue): Topic Discussion and QA (Topic 8 - Seq2Seq Learning & Transformer)**
     - 동영상 시청 완료 및 질문 등록: 2021-04-13
     - 질문에 대한 수강생 답변 등록: 2021-04-18
     - 유튜브 요약 영상 업로드: 2021-04-22
-- **2021-04-22 (Thu): Term Project Meeting (Round 2)**
-    - 10조, 11조, 12조
+- **2021-04-22 (Thu): Term Project Meeting (Round 3)**
+    - 1조, 2조, 3조
 - **2021-04-27 (Tue): Topic Discussion and QA (Topic 8 - ELMo, GPT, BERT)**
     - 동영상 시청 완료 및 질문 등록: 2021-04-20
     - 질문에 대한 수강생 답변 등록: 2021-04-25
     - 유튜브 요약 영상 업로드: 2021-04-29
 - **2021-04-29 (Thu): Term Project Meeting (Round 3)**
-    - 1조, 2조, 3조
+    - 4조, 5조, 6조
 - **2021-05-04 (Tue): Topic Discussion and QA (Topic 8 - GPT-2, Transformer to T5, GPT-3)**
     - 동영상 시청 완료 및 질문 등록: 2021-04-27
     - 질문에 대한 수강생 답변 등록: 2021-05-01
     - 유튜브 요약 영상 업로드: 2021-05-06
 - **2021-05-06 (Thu): Term Project Meeting (Round 3)**
-    - 4조, 5조, 6조
+    - 7조, 8조, 9조
 - **2021-05-11 (Tue): Topic Discussion and QA (Topic 9 - Document Classification)**
     - 동영상 시청 완료 및 질문 등록: 2021-05-04
     - 질문에 대한 수강생 답변 등록: 2021-05-09
     - 유튜브 요약 영상 업로드: 2021-05-13
 - **2021-05-13 (Thu): Term Project Meeting (Round 3)**
-    - 7조, 8조, 9조
+    - 10조, 11조, 12조
 - **2021-05-18 (Tue): Topic Discussion and QA (Topic 10 - Sentiment Analysis)**
     - 동영상 시청 완료 및 질문 등록: 2021-05-11
     - 질문에 대한 수강생 답변 등록: 2021-05-16
     - 유튜브 요약 영상 업로드: 2021-05-20
-- **2021-05-20 (Thu): Term Project Meeting (Round 3)**
-    - 10조, 11조, 12조
+- **2021-05-20 (Thu): Term Project 중간발표**
 
 ## Recommended courses
   - **CS224d @Stanford: Deep Learning for Natural Language Processing**
