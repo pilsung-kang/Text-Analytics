@@ -188,7 +188,6 @@ Unstructured Data Analysis (Graduate) @Korea University
   - Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2019). Exploring the limits of transfer learning with a unified text-to-text transformer. arXiv preprint arXiv:1910.10683. ([PDF](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf))
   - Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. arXiv preprint arXiv:2005.14165. ([PDF](https://arxiv.org/pdf/2005.14165.pdf))
   
-
 ## Topic 9: Document Classification
 - Document classification overview, Vector Space Models (Naive Bayesian Classifier, k-Nearese Neighbor Classifier) [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/09%20Document%20Classification/09-1_Document%20Classification%20-%20Vector%20Space%20Models.pdf)], [[Video](https://www.youtube.com/watch?v=0Cd1bbD1CUE&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=23)] **(2021-05-04)**
 - (Optional) Other VSM-based classsification (Lecture videos are taken from IMEN415 (Multivariate Data Analysis for Undergraudate Students @Korea University))
@@ -208,7 +207,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Topic 10: Sentiment Analysis
 - Architecture of sentiment analysis [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_1_Sentiment%20Analysis%20Overview.pdf)], [[Video](https://www.youtube.com/watch?v=5ZC37vpaU-4)] **(2021-05-11)**
-- Lexicon-based approach [[Slide](https://github.com/pilsu ng-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_2_Sentiment%20Analysis_Lexicon-based%20Approach.pdf)], [[Video](https://www.youtube.com/watch?v=_YkDv1EFgwU)] **(2021-05-11)**
+- Lexicon-based approach [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_2_Sentiment%20Analysis_Lexicon-based%20Approach.pdf)], [[Video](https://www.youtube.com/watch?v=_YkDv1EFgwU)] **(2021-05-11)**
 - Machine learning-based approach [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/10%20Sentiment%20Analysis/10_3_Sentiment%20Analysis_ML-based%20Approach.pdf)], [[Video](https://youtu.be/9roNxTSIHus)] **(2021-05-11)**
 - Reading materials
   - Hamilton, W. L., Clark, K., Leskovec, J., & Jurafsky, D. (2016, November). Inducing domain-specific sentiment lexicons from unlabeled corpora. In Proceedings of the Conference on Empirical Methods in Natural Language Processing. Conference on Empirical Methods in Natural Language Processing (Vol. 2016, p. 595). NIH Public Access. ([PDF](https://nlp.stanford.edu/pubs/hamilton2016inducing.pdf))
