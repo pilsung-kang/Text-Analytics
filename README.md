@@ -216,7 +216,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Topic 11: Text Summarization
 - Text summarization Overview [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Text%20Summarization_Overview.pdf)], [[Video](https://youtu.be/25TEdaQPqQY)]
-- Extractive Summarization
+- Extractive Summarization (TextRank, LexRank, DivRank) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Graph-based%20Extractive%20Summarization.pdf)], [[Video]()]
   - _(Optional) Single Document Summarization as Tree Induction_ [[Video (발표자: 최종현)](https://youtu.be/_yWyO9s5rBk)]
   - _(Optional) Extractive summarization as Text Matching_ [[Video (발표자: 이유경)](https://youtu.be/8E2Ia4Viu94)]
 - Abstractive Summarization
@@ -225,7 +225,10 @@ Unstructured Data Analysis (Graduate) @Korea University
 - Reading materials
   - Lin, C. Y. (2004, July). Rouge: A package for automatic evaluation of summaries. In Text summarization branches out (pp. 74-81). ([PDF](https://www.aclweb.org/anthology/W04-1013.pdf))
   - Ganesan, K. (2018). Rouge 2.0: Updated and improved measures for evaluation of summarization tasks. arXiv preprint arXiv:1803.01937. ([PDF](https://arxiv.org/pdf/1803.01937.pdf))
-
+  - Mihalcea, R., & Tarau, P. (2004, July). Textrank: Bringing order into text. In Proceedings of the 2004 conference on empirical methods in natural language processing (pp. 404-411). ([PDF](https://www.aclweb.org/anthology/W04-3252.pdf))
+  - Erkan, G., & Radev, D. R. (2004). Lexrank: Graph-based lexical centrality as salience in text summarization. Journal of artificial intelligence research, 22, 457-479. ([PDF](https://www.jair.org/index.php/jair/article/view/10396/24901))
+  - Mei, Q., Guo, J., & Radev, D. (2010, July). Divrank: the interplay of prestige and diversity in information networks. In Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 1009-1018). ([PDF](https://dl.acm.org/doi/pdf/10.1145/1835804.1835931))
+   
 ## Topic 12: Question and Answering
 - Question and Answering (CS224N) [[Video (발표자: 조규원)](https://youtu.be/7u6Ys7I0z2E)]
 - SQuAD: 100,000+ questions for machine comprehension of text [[Video (발표자: 김형석)](https://youtu.be/CbY_xcBGR20)]
