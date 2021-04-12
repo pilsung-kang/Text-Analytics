@@ -215,7 +215,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Topic 11: Text Summarization
 - Text summarization Overview [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Text%20Summarization_Overview.pdf)], [[Video](https://youtu.be/25TEdaQPqQY)]
-- Extractive Summarization (TextRank, LexRank, DivRank) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Graph-based%20Extractive%20Summarization.pdf)], [[Video]()]
+- Extractive Summarization (TextRank, LexRank, DivRank) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Graph-based%20Extractive%20Summarization.pdf)], [[Video](https://youtu.be/Jaa3DmhJ5CM)]
   - _(Optional) Single Document Summarization as Tree Induction_ [[Video (발표자: 최종현)](https://youtu.be/_yWyO9s5rBk)]
   - _(Optional) Extractive summarization as Text Matching_ [[Video (발표자: 이유경)](https://youtu.be/8E2Ia4Viu94)]
 - Abstractive Summarization
