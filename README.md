@@ -147,6 +147,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 * Topic modeling overview & Latent Semantic Analysis (LSA), Probabilistic Latent Semantic Analysis: pLSA [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LSA_pLSA.pdf)], [[Video](https://www.youtube.com/watch?v=J1ri0EQnUOg&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=14)] **(2021-04-06)**
 * LDA: Document Generation Process [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Generation.pdf)], [[Video](https://www.youtube.com/watch?v=WR2On5QAqJQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=15)] **(2021-04-06)**
 * LDA Inference: Collapsed Gibbs Sampling, LDA Evaluation [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)], [[Video](https://www.youtube.com/watch?v=iwMSCsiL6wQ&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=16)] **(2021-04-06)**
+* Q & A Session [[Slide](https://www.dropbox.com/s/cciia32y7buhzre/%282021%29%2007_Topic%20Modeling_QA.pdf?dl=0)]
 * Reading Materials
   * Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). Indexing by latent semantic analysis. Journal of the American society for information science, 41(6), 391. ([PDF](http://lsa.colorado.edu/papers/JASIS.lsi.90.pdf))
   * Dumais, S. T. (2004). Latent semantic analysis. Annual review of information science and technology, 38(1), 188-230.
