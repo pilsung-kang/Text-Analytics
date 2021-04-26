@@ -53,31 +53,32 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 동영상 시청 완료 및 질문 등록: 2021-04-13
     - 질문에 대한 수강생 답변 등록: 2021-04-18
     - 유튜브 요약 영상 업로드: 2021-04-22
-- **2021-04-22 (Thu): Term Project Meeting (Round 3)**
+- **2021-04-22 (Thu): Term Project Meeting (Round 2)**
     - 10조, 11조, 12조
 - **2021-04-27 (Tue): Topic Discussion and QA (Topic 8 - ELMo, GPT, BERT)**
     - 동영상 시청 완료 및 질문 등록: 2021-04-20
     - 질문에 대한 수강생 답변 등록: 2021-04-25
     - 유튜브 요약 영상 업로드: 2021-04-29
 - **2021-04-29 (Thu): Term Project Meeting (Round 3)**
-    - 1조, 2조, 3조
+    - 1조, 2조, 3조, 4조
 - **2021-05-04 (Tue): Topic Discussion and QA (Topic 8 - GPT-2, Transformer to T5, GPT-3)**
     - 동영상 시청 완료 및 질문 등록: 2021-04-27
     - 질문에 대한 수강생 답변 등록: 2021-05-01
     - 유튜브 요약 영상 업로드: 2021-05-06
-- **2021-05-06 (Thu): Term Project 중간발표**
+- **2021-05-06 (Thu): Term Project Meeting (Round 3)**
+    - 5조, 6조, 7조, 8조
 - **2021-05-11 (Tue): Topic Discussion and QA (Topic 9 - Document Classification)**
     - 동영상 시청 완료 및 질문 등록: 2021-05-04
     - 질문에 대한 수강생 답변 등록: 2021-05-09
     - 유튜브 요약 영상 업로드: 2021-05-13
 - **2021-05-13 (Thu): Term Project Meeting (Round 3)**
-    - 1조, 2조, 3조
+    - 9조, 10조, 11조, 12조
 - **2021-05-18 (Tue): Topic Discussion and QA (Topic 10 - Sentiment Analysis)**
     - 동영상 시청 완료 및 질문 등록: 2021-05-11
     - 질문에 대한 수강생 답변 등록: 2021-05-16
     - 유튜브 요약 영상 업로드: 2021-05-20
-- **2021-05-20 (Thu): Term Project Meeting (Round 3)**
-    - 4조, 5조, 6조
+- **2021-05-20 (Thu): Term Project 중간발표**
+
 
 ## Recommended courses
   - **CS224d @Stanford: Deep Learning for Natural Language Processing**
@@ -168,7 +169,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 - GPT: Generative Pre-Training of a Language Model [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-4_GPT.pdf)], [[Video](https://www.youtube.com/watch?v=o_Wl29aW5XM&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=20)] **(2021-04-20)**
 - BERT: Bidirectional Encoder Representations from Transformer [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-5_BERT.pdf)], [[Video](https://www.youtube.com/watch?v=IwtexRHoWG0&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=21)] **(2021-04-20)**
   - _(Optional) Semantics-aware BERT for Language Understanding_ [[Video (발표자: 김명섭)](https://youtu.be/vFXGvGMKesM)]
-- GPT-2: Language Models are Unsupervised Multitask Learners [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/07%20Topic%20Modeling/07_Topic%20Modeling_LDA_Inference.pdf)], [[Video](https://youtu.be/8hd2Q-3-BsQ)] **(2021-04-27)**
+- GPT-2: Language Models are Unsupervised Multitask Learners [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/08-6_GPT2.pdf)], [[Video](https://youtu.be/8hd2Q-3-BsQ)] **(2021-04-27)**
 - Transformer to T5 (XLNet, RoBERTa, MASS, BART, MT-DNN,T5) [[Video (발표자: 이유경)](https://youtu.be/v7diENO2mEA)] **(2021-04-27)**
 - GPT-3: Language Models are Few Shot Learners [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/GPT-3.pdf)], [[Video](https://youtu.be/xNdp3_Zrr8Q)] **(2021-04-27)**
 - _(Optional) How Contextual are Contextualized Word Representations? Comparing the Geoetry of BERT, ELMo, and GPT-2 Embeddings_ [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/08%20Seq2Seq%20Learning%20and%20Pre-trained%20Models/Transformer%20to%20T5_final_%EC%9D%B4%EC%9C%A0%EA%B2%BD.pdf)], [[Video (발표자: 이유경)](https://youtu.be/d05ype2cVQc)]
