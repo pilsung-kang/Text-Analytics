@@ -223,7 +223,8 @@ Unstructured Data Analysis (Graduate) @Korea University
 
 ## Topic 11: Text Summarization
 - Text summarization Overview [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Text%20Summarization_Overview.pdf)], [[Video](https://youtu.be/25TEdaQPqQY)]
-- Extractive Summarization (TextRank, LexRank, DivRank) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Graph-based%20Extractive%20Summarization.pdf)], [[Video](https://youtu.be/Jaa3DmhJ5CM)]
+- Extractive Summarization 1: Graph-based Summarization (TextRank, LexRank, DivRank) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Graph-based%20Extractive%20Summarization.pdf)], [[Video](https://youtu.be/Jaa3DmhJ5CM)]
+- Extractive Summarization 2: Neural Network-based Summarization (SummaRuNNer, NeuSum) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Neural%20Network-based%20Extractive%20Summarization.pdf)]
   - _(Optional) Single Document Summarization as Tree Induction_ [[Video (발표자: 최종현)](https://youtu.be/_yWyO9s5rBk)]
   - _(Optional) Extractive summarization as Text Matching_ [[Video (발표자: 이유경)](https://youtu.be/8E2Ia4Viu94)]
 - Abstractive Summarization
@@ -235,6 +236,8 @@ Unstructured Data Analysis (Graduate) @Korea University
   - Mihalcea, R., & Tarau, P. (2004, July). Textrank: Bringing order into text. In Proceedings of the 2004 conference on empirical methods in natural language processing (pp. 404-411). ([PDF](https://www.aclweb.org/anthology/W04-3252.pdf))
   - Erkan, G., & Radev, D. R. (2004). Lexrank: Graph-based lexical centrality as salience in text summarization. Journal of artificial intelligence research, 22, 457-479. ([PDF](https://www.jair.org/index.php/jair/article/view/10396/24901))
   - Mei, Q., Guo, J., & Radev, D. (2010, July). Divrank: the interplay of prestige and diversity in information networks. In Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 1009-1018). ([PDF](https://dl.acm.org/doi/pdf/10.1145/1835804.1835931))
+  - Nallapati, R., Zhai, F., & Zhou, B. (2017, February). Summarunner: A recurrent neural network based sequence model for extractive summarization of documents. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 31, No. 1). ([PDF](https://ojs.aaai.org/index.php/AAAI/article/view/10958/10817))
+  - Zhou, Q., Yang, N., Wei, F., Huang, S., Zhou, M., & Zhao, T. (2018). Neural document summarization by jointly learning to score and select sentences. arXiv preprint arXiv:1807.02305. ([PDF](https://arxiv.org/pdf/1807.02305.pdf))
    
 ## Topic 12: Question and Answering
 - Question and Answering (CS224N) [[Video (발표자: 조규원)](https://youtu.be/7u6Ys7I0z2E)]
