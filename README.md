@@ -65,20 +65,26 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 동영상 시청 완료 및 질문 등록: 2021-04-27
     - 질문에 대한 수강생 답변 등록: 2021-05-01
     - 유튜브 요약 영상 업로드: 2021-05-06
+    - **Term Project Meeting (Round 3)**
+        - 5조, 6조, 7조, 8조
 - **2021-05-06 (Thu): Term Project Meeting (Round 3)**
-    - 5조, 6조, 7조, 8조
+    - 9조, 10조, 11조, 12조
 - **2021-05-11 (Tue): Topic Discussion and QA (Topic 9 - Document Classification)**
     - 동영상 시청 완료 및 질문 등록: 2021-05-04
     - 질문에 대한 수강생 답변 등록: 2021-05-09
     - 유튜브 요약 영상 업로드: 2021-05-13
-- **2021-05-13 (Thu): Term Project Meeting (Round 3)**
+- **2021-05-13 (Thu): Term Project 중간발표**
     - 9조, 10조, 11조, 12조
 - **2021-05-18 (Tue): Topic Discussion and QA (Topic 10 - Sentiment Analysis)**
     - 동영상 시청 완료 및 질문 등록: 2021-05-11
     - 질문에 대한 수강생 답변 등록: 2021-05-16
     - 유튜브 요약 영상 업로드: 2021-05-20
-- **2021-05-20 (Thu): Term Project 중간발표**
-
+- **2021-05-20 (Thu): Term Project Meeting (Round 4)**
+    - 1조, 2조, 3조, 4조
+- **2021-05-24 (Tue): Topic Discussion and QA (Topic 11 - Text Summairzation (Extractive Summarization))**
+    - 동영상 시청 완료 및 질문 등록: 2021-05-17
+    - 질문에 대한 수강생 답변 등록: 2021-05-22
+    - 유튜브 요약 영상 업로드: 2021-05-26
 
 ## Recommended courses
   - **CS224d @Stanford: Deep Learning for Natural Language Processing**
