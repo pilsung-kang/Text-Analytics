@@ -81,10 +81,10 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 유튜브 요약 영상 업로드: 2021-05-20
 - **2021-05-20 (Thu): Term Project Meeting (Round 4)**
     - 1조, 2조, 3조, 4조
-- **2021-05-24 (Tue): Topic Discussion and QA (Topic 11 - Text Summairzation (Extractive Summarization))**
+- **2021-05-25 (Tue): Topic Discussion and QA (Topic 11 - Text Summairzation (Extractive Summarization))**
     - 동영상 시청 완료 및 질문 등록: 2021-05-17
-    - 질문에 대한 수강생 답변 등록: 2021-05-22
-    - 유튜브 요약 영상 업로드: 2021-05-26
+    - 질문에 대한 수강생 답변 등록: 2021-05-23
+    - 유튜브 요약 영상 업로드: 2021-05-27
 
 ## Recommended courses
   - **CS224d @Stanford: Deep Learning for Natural Language Processing**
