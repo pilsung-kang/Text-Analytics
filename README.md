@@ -117,7 +117,6 @@ Unstructured Data Analysis (Graduate) @Korea University
   - Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). Natural language processing (almost) from scratch. Journal of Machine Learning Research, 12(Aug), 2493-2537. ([PDF](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf))
   - Young, T., Hazarika, D., Poria, S., & Cambria, E. (2017). Recent trends in deep learning based natural language processing. arXiv preprint arXiv:1708.02709. ([PDF](https://arxiv.org/pdf/1708.02709.pdf))
 
-
 ## Topic 3: Neural Networks Basics (Optional, No Video Lectures)
 * Perception, Multi-layered Perceptron
 * Convolutional Neural Networks (CNN)
@@ -203,7 +202,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   - Decision Tree: [[Recursive Partitioning and Pruning](https://www.youtube.com/watch?v=w6eCV1GzsLs&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=18)]
   - Artificial Neural Network: [[Perceptron](https://www.youtube.com/watch?v=s0ObHKy_MYk&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=21)], [[Multi-layer Perceptron](https://www.youtube.com/watch?v=YitouyZ-S94&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=22)]
   - Ensemble Models" [[Overview](https://www.youtube.com/watch?v=Y8xfvgKc_KM&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=24)], [[Bagging](https://www.youtube.com/watch?v=giIaZDXu2No&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=25)], [[Random Forest](https://www.youtube.com/watch?v=wB0ELX15kN8&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=26)], [[AdaBoost](https://www.youtube.com/watch?v=Y2rsmO6Nr4I&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=27)], [[Gradient Boosting Machine (GBM)](https://www.youtube.com/watch?v=1qnZ6JKZTNI&list=PLetSlH8YjIfWKLpMp-r6enJvnk6L93wz2&index=28)] 
-- CNN-based document classification [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/09%20Document%20Classification/09-3_Document%20Classification_RNN.pdf)], [[Video](https://www.youtube.com/watch?v=r3Liq9B6cTo&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=24)], [[(Optional) 발표자 이기창](https://youtu.be/_0bOjspRG6s)] **(2021-05-04)**
+- CNN-based document classification [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/09%20Document%20Classification/09-2_Document%20Classification_CNN.pdf)], [[Video](https://www.youtube.com/watch?v=r3Liq9B6cTo&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=24)], [[(Optional) 발표자 이기창](https://youtu.be/_0bOjspRG6s)] **(2021-05-04)**
 - RNN-based document classification [[Slide](https://github.com/pilsung-kang/text-analytics/blob/master/09%20Document%20Classification/09-3_Document%20Classification_RNN.pdf)], [[Video](https://www.youtube.com/watch?v=3a-6QKRl26Q)] **(2021-05-04)**
 - Reading materials
   - Kim, Y. (2014). Convolutional neural networks for sentence classification. arXiv preprint arXiv:1408.5882. ([PDF](http://www.aclweb.org/anthology/D14-1181))
