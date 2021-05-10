@@ -8,6 +8,9 @@ Unstructured Data Analysis (Graduate) @Korea University
 - **Term Project 제안발표**
   - Instruction [[download](https://www.dropbox.com/s/emn6yugdqc7re24/Term%20Project_%EC%A0%9C%EC%95%88%EB%B0%9C%ED%91%9C.pdf?dl=0)]
   - Deadline: 2021-03-31 23:59
+- **Term Project 중간발표**
+  - Instruction [[download](https://www.dropbox.com/s/wf09occ89wkwx4d/Term%20Project_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pdf?dl=0)]
+  - Deadline: 2021-05-16 23:59
 
 ## Schedule
 - **2021-03-09 (Tue): Term Project Meeting (Round 1)**
@@ -73,8 +76,7 @@ Unstructured Data Analysis (Graduate) @Korea University
     - 동영상 시청 완료 및 질문 등록: 2021-05-04
     - 질문에 대한 수강생 답변 등록: 2021-05-09
     - 유튜브 요약 영상 업로드: 2021-05-13
-- **2021-05-13 (Thu): Term Project 중간발표**
-    - 9조, 10조, 11조, 12조
+- **2021-05-13 (Thu): Term Project 중간발표 준비**
 - **2021-05-18 (Tue): Topic Discussion and QA (Topic 10 - Sentiment Analysis)**
     - 동영상 시청 완료 및 질문 등록: 2021-05-11
     - 질문에 대한 수강생 답변 등록: 2021-05-16
