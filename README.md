@@ -233,7 +233,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   - Zhang, L., Wang, S., & Liu, B. (2018). Deep learning for sentiment analysis: A survey. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 8(4), e1253. ([PDF](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf))
 
 ## Topic 11: Text Summarization
-- Text summarization Overview [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Text%20Summarization_Overview.pdf)], [[Video](https://youtu.be/25TEdaQPqQY)] **(2021-05-17)**
+- Text summarization Overview [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Text%20Summarization_Overview.pdf)], [[Video](https://youtu.be/25TEdaQPqQY)] **(2021-05-18)**
 - Extractive Summarization 1: Graph-based Summarization (TextRank, LexRank, DivRank) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Graph-based%20Extractive%20Summarization.pdf)], [[Video](https://youtu.be/Jaa3DmhJ5CM)] **(2021-05-18)**
 - Extractive Summarization 2: Neural Network-based Summarization (SummaRuNNer, NeuSum) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Neural%20Network-based%20Extractive%20Summarization.pdf)], [[Video](https://youtu.be/2DTxDqh4c8s)] **(2021-05-18)**
   - _(Optional) Single Document Summarization as Tree Induction_ [[Video (발표자: 최종현)](https://youtu.be/_yWyO9s5rBk)]
