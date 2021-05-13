@@ -84,9 +84,19 @@ Unstructured Data Analysis (Graduate) @Korea University
 - **2021-05-20 (Thu): Term Project Meeting (Round 4)**
     - 1조, 2조, 3조, 4조
 - **2021-05-25 (Tue): Topic Discussion and QA (Topic 11 - Text Summairzation (Extractive Summarization))**
-    - 동영상 시청 완료 및 질문 등록: 2021-05-17
+    - 동영상 시청 완료 및 질문 등록: 2021-05-18
     - 질문에 대한 수강생 답변 등록: 2021-05-23
     - 유튜브 요약 영상 업로드: 2021-05-27
+- **2021-05-27 (Thu): Term Project Meeting (Round 4)**
+    - 5조, 6조, 7조, 8조
+- **2021-06-01 (Tue) & 2021-06-03 (Thu): 산업공학회 춘계공동학술대회**
+- **2021-06-08 (Tue): Topic Discussion and QA (Topic 11 - Text Summairzation (Abstractive Summarization))**
+    - 동영상 시청 완료 및 질문 등록: 2021-06-01
+    - 질문에 대한 수강생 답변 등록: 2021-06-06
+    - 유튜브 요약 영상 업로드: 2021-06-10
+ - **2021-06-10 (Thu): Term Project Meeting (Round 4)**
+    - 9조, 10조, 11조, 12조
+ - **2021-06-17 (Thu): Term Project 최종발표**
 
 ## Recommended courses
   - **CS224d @Stanford: Deep Learning for Natural Language Processing**
@@ -223,13 +233,13 @@ Unstructured Data Analysis (Graduate) @Korea University
   - Zhang, L., Wang, S., & Liu, B. (2018). Deep learning for sentiment analysis: A survey. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 8(4), e1253. ([PDF](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf))
 
 ## Topic 11: Text Summarization
-- Text summarization Overview [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Text%20Summarization_Overview.pdf)], [[Video](https://youtu.be/25TEdaQPqQY)]
-- Extractive Summarization 1: Graph-based Summarization (TextRank, LexRank, DivRank) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Graph-based%20Extractive%20Summarization.pdf)], [[Video](https://youtu.be/Jaa3DmhJ5CM)]
-- Extractive Summarization 2: Neural Network-based Summarization (SummaRuNNer, NeuSum) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Neural%20Network-based%20Extractive%20Summarization.pdf)], [[Video](https://youtu.be/2DTxDqh4c8s)]
+- Text summarization Overview [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Text%20Summarization_Overview.pdf)], [[Video](https://youtu.be/25TEdaQPqQY)] **(2021-05-17)**
+- Extractive Summarization 1: Graph-based Summarization (TextRank, LexRank, DivRank) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Graph-based%20Extractive%20Summarization.pdf)], [[Video](https://youtu.be/Jaa3DmhJ5CM)] **(2021-05-17)**
+- Extractive Summarization 2: Neural Network-based Summarization (SummaRuNNer, NeuSum) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Neural%20Network-based%20Extractive%20Summarization.pdf)], [[Video](https://youtu.be/2DTxDqh4c8s)] **(2021-05-17)**
   - _(Optional) Single Document Summarization as Tree Induction_ [[Video (발표자: 최종현)](https://youtu.be/_yWyO9s5rBk)]
   - _(Optional) Extractive summarization as Text Matching_ [[Video (발표자: 이유경)](https://youtu.be/8E2Ia4Viu94)]
-- Abstractive Summarization [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Abstractive%20Summarization.pdf)]
-- Extractive/Abstractive Summarization
+- Abstractive Summarization [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Abstractive%20Summarization.pdf)] **(2021-05-24)**
+- Extractive/Abstractive Summarization **(2021-05-24)**
   - Text Summarization with Pretrained Encoder (BERTSum) [[Video (발표자: 이정훈)](https://youtu.be/PQk9kr9dGu0)]
 - Reading materials
   - Lin, C. Y. (2004, July). Rouge: A package for automatic evaluation of summaries. In Text summarization branches out (pp. 74-81). ([PDF](https://www.aclweb.org/anthology/W04-1013.pdf))
@@ -242,7 +252,7 @@ Unstructured Data Analysis (Graduate) @Korea University
   - Nallapati, R., Zhou, B., Gulcehre, C., & Xiang, B. (2016). Abstractive text summarization using sequence-to-sequence rnns and beyond. arXiv preprint arXiv:1602.06023. ([PDF](https://arxiv.org/pdf/1602.06023.pdf))
   - See, A., Liu, P. J., & Manning, C. D. (2017). Get to the point: Summarization with pointer-generator networks. arXiv preprint arXiv:1704.04368. ([PDF](https://arxiv.org/pdf/1704.04368.pdf))
    
-## Topic 12: Question and Answering
+## Topic 12: Question and Answering _(Optional)_
 - Question and Answering (CS224N) [[Video (발표자: 조규원)](https://youtu.be/7u6Ys7I0z2E)]
 - SQuAD: 100,000+ questions for machine comprehension of text [[Video (발표자: 김형석)](https://youtu.be/CbY_xcBGR20)]
 - Know what you don't know: Unanswerable questions for SQuAD [[Video (발표자: 김형석)](https://youtu.be/uIoXJcsPj_8)]
@@ -256,5 +266,5 @@ Unstructured Data Analysis (Graduate) @Korea University
   - Sukhbaatar, S., Szlam, A., Weston, J., & Fergus, R. (2015). End-to-end memory networks. arXiv preprint arXiv:1503.08895. ([PDF](https://arxiv.org/pdf/1503.08895.pdf))
   - Kumar, A., Irsoy, O., Ondruska, P., Iyyer, M., Bradbury, J., Gulrajani, I., ... & Socher, R. (2016, June). Ask me anything: Dynamic memory networks for natural language processing. In International conference on machine learning (pp. 1378-1387). PMLR. ([PDF](https://arxiv.org/pdf/1506.07285.pdf))
 
-## Topic 13: (Open) Information Extraction
+## Topic 13: (Open) Information Extraction _(Optional)_
 -  Open Information Extraction [[Video (발표자: 노영빈)](https://youtu.be/tUx3LgBhrXE)]
