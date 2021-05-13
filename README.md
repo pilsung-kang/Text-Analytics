@@ -228,7 +228,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 - Extractive Summarization 2: Neural Network-based Summarization (SummaRuNNer, NeuSum) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Neural%20Network-based%20Extractive%20Summarization.pdf)], [[Video](https://youtu.be/2DTxDqh4c8s)]
   - _(Optional) Single Document Summarization as Tree Induction_ [[Video (발표자: 최종현)](https://youtu.be/_yWyO9s5rBk)]
   - _(Optional) Extractive summarization as Text Matching_ [[Video (발표자: 이유경)](https://youtu.be/8E2Ia4Viu94)]
-- Abstractive Summarization
+- Abstractive Summarization [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Abstractive%20Summarization.pdf)]
 - Extractive/Abstractive Summarization
   - Text Summarization with Pretrained Encoder (BERTSum) [[Video (발표자: 이정훈)](https://youtu.be/PQk9kr9dGu0)]
 - Reading materials
@@ -239,6 +239,8 @@ Unstructured Data Analysis (Graduate) @Korea University
   - Mei, Q., Guo, J., & Radev, D. (2010, July). Divrank: the interplay of prestige and diversity in information networks. In Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 1009-1018). ([PDF](https://dl.acm.org/doi/pdf/10.1145/1835804.1835931))
   - Nallapati, R., Zhai, F., & Zhou, B. (2017, February). Summarunner: A recurrent neural network based sequence model for extractive summarization of documents. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 31, No. 1). ([PDF](https://ojs.aaai.org/index.php/AAAI/article/view/10958/10817))
   - Zhou, Q., Yang, N., Wei, F., Huang, S., Zhou, M., & Zhao, T. (2018). Neural document summarization by jointly learning to score and select sentences. arXiv preprint arXiv:1807.02305. ([PDF](https://arxiv.org/pdf/1807.02305.pdf))
+  - Nallapati, R., Zhou, B., Gulcehre, C., & Xiang, B. (2016). Abstractive text summarization using sequence-to-sequence rnns and beyond. arXiv preprint arXiv:1602.06023. ([PDF](https://arxiv.org/pdf/1602.06023.pdf))
+  - See, A., Liu, P. J., & Manning, C. D. (2017). Get to the point: Summarization with pointer-generator networks. arXiv preprint arXiv:1704.04368. ([PDF](https://arxiv.org/pdf/1704.04368.pdf))
    
 ## Topic 12: Question and Answering
 - Question and Answering (CS224N) [[Video (발표자: 조규원)](https://youtu.be/7u6Ys7I0z2E)]
