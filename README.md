@@ -238,7 +238,7 @@ Unstructured Data Analysis (Graduate) @Korea University
 - Extractive Summarization 2: Neural Network-based Summarization (SummaRuNNer, NeuSum) [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Neural%20Network-based%20Extractive%20Summarization.pdf)], [[Video](https://youtu.be/2DTxDqh4c8s)] **(2021-05-18)**
   - _(Optional) Single Document Summarization as Tree Induction_ [[Video (발표자: 최종현)](https://youtu.be/_yWyO9s5rBk)]
   - _(Optional) Extractive summarization as Text Matching_ [[Video (발표자: 이유경)](https://youtu.be/8E2Ia4Viu94)]
-- Abstractive Summarization [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Abstractive%20Summarization.pdf)] **(2021-06-01)**
+- Abstractive Summarization [[Slide](https://github.com/pilsung-kang/Text-Analytics/blob/master/11%20Text%20Summarization/Abstractive%20Summarization.pdf)], [[Video](https://youtu.be/RrchhYdGpvE)] **(2021-06-01)**
 - Extractive/Abstractive Summarization **(2021-06-01)**
   - Text Summarization with Pretrained Encoder (BERTSum) [[Video (발표자: 이정훈)](https://youtu.be/PQk9kr9dGu0)]
 - Reading materials
