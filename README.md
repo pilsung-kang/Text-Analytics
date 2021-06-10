@@ -11,6 +11,9 @@ Unstructured Data Analysis (Graduate) @Korea University
 - **Term Project 중간발표**
   - Instruction [[download](https://www.dropbox.com/s/wf09occ89wkwx4d/Term%20Project_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pdf?dl=0)]
   - Deadline: 2021-05-16 23:59
+- **Term Project 최종발표**
+  - Instruction [[download](https://www.dropbox.com/s/18q89ksaytliqn0/Term%20Project_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf?dl=0)]
+  - Deadline: 2021-06-20 23:59
 
 ## Schedule
 - **2021-03-09 (Tue): Term Project Meeting (Round 1)**
